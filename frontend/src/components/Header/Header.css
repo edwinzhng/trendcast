@@ -1,14 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:200,400,700');
+
 .header{
 	height: 50vh;
-	background: #1CD8D2;
-	background: -webkit-linear-gradient(to right, #93EDC7, #1CD8D2);
-	background: linear-gradient(to right, #93EDC7, #1CD8D2);
+	background: #67b26f;
+  background: -webkit-linear-gradient(to right, #67b26f, #4ca2cd);
+  background: linear-gradient(to right, #67b26f, #4ca2cd);
 	text-align: center;
 }
 
 .header h1 {
+	font-family: 'Roboto', sans-serif;
 	padding-top: 50px;
-	font-size: 400%;
-	color: black;
+	font-size: 500%;
+	color: #fff;
 	font-weight: 300;
+}
+
+.header h1:after {
+	border-top: 300px;
 }
