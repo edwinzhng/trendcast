@@ -37,6 +37,7 @@ class Home extends Component {
         </Row>
         </Container>
         </div>
+        
         <div className="home-content">
         	<LineChart width={1040} height={500} data={data}
                 margin={{top: 5, right: 30, left: 20, bottom: 10}}>
