@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import './navbar.css';
 import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
 
@@ -25,10 +26,10 @@ class Navibar extends Component {
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink href="/artificial-intelligence" className = "links">AI</NavLink>
+                <Link to="/artificial-intelligence" className="link"><NavLink href="/artificial-intelligence" className = "links">AI</NavLink></Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/blockchain" className = "links">Blockchain</NavLink>
+                <Link to="/blockchain" className="link"><NavLink href="/blockchain" className = "links">Blockchain</NavLink></Link>
               </NavItem>
             </Nav>
           </Collapse>
