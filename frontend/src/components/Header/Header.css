@@ -1,14 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:200:400|Roboto:700');
+
+@keyframes line_animation {
+  from { width: 0px; }
+  to { width: 900px; }
+}
+
 .header{
-	height: 50vh;
-	background: #1CD8D2;
-	background: -webkit-linear-gradient(to right, #93EDC7, #1CD8D2);
-	background: linear-gradient(to right, #93EDC7, #1CD8D2);
+	height: 510px;
+  background: #1488CC;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2B32B2, #1488CC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	text-align: center;
 }
 
 .header h1 {
+	font-family: 'Muli', sans-serif;
 	padding-top: 50px;
-	font-size: 400%;
-	color: black;
-	font-weight: 300;
+	font-size: 500%;
+	color: #fff;
+	font-weight: 400;
+}
+
+.header h1::after {
+  display: block;
+  height: 2px;
+  background-color: #fff;
+  content: '';
+  width: 900px;
+  animation-name: line_animation;
+  animation-duration: 1.5s;
+  animation-timing-function: ease-in-out;
+  margin: 45px auto;
+}
+
+.header p {
+  font-family: 'Muli', sans-serif;
+  color: #fff;
+  font-size: 120%;
+}
+
+.header-button {
+  font-family: 'Muli', sans-serif;
+	margin: 30px  !important;
 }
