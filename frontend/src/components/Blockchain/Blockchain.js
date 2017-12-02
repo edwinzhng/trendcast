@@ -26,11 +26,9 @@ class Blockchain extends Component {
       <div>
       <div className="blockheader">
         <h1>Blockchain</h1>
-        <p>Predicting the next big trends in AI and Blockchain</p>
-        <div className="buttons">
-          <Button inverted color='olive' className="header-button">Trending</Button>
-          <Button inverted color='white' className="header-button">Search</Button>
-        </div>
+        <p>Scraping historical data from Google Trends, sentiment analysis of news articles from all major tech news sources, trendcast provides visualization for this data and predicts which cryptocurrencies will disrupt the crypto market.
+</p>
+        
       </div>
       <div className="blockchain">
       	<LineChart width={1040} height={500} data={data}
