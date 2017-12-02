@@ -6,3 +6,40 @@
   margin-right: auto;
   width: 1040px;
 }
+.aiheader{
+  height: 400px;
+  background: #145acc;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #000046, #1cb5e0);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,#a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	text-align: center;
+}
+
+.aiheader h1 {
+	font-family: 'Muli', sans-serif;
+	padding-top: 50px;
+	font-size: 300%;
+	color: #fff;
+	font-weight: 400;
+}
+
+.aiheader h1::after {
+  display: block;
+  height: 2px;
+  background-color: #fff;
+  content: '';
+  width: 900px;
+  animation-name: line_animation;
+  animation-duration: 1.5s;
+  animation-timing-function: ease-in-out;
+  margin: 45px auto;
+}
+
+.aiheader p {
+  font-family: 'Muli', sans-serif;
+  color: #fff;
+  font-size: 110%;
+  width: 900px;
+  position: relative;
+  text-align: justify;
+  margin: auto;
+}

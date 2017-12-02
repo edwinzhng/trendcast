@@ -18,21 +18,13 @@
 	font-weight: 200;
 	margin: auto;
 	text-align: center;
+	margin-bottom: 40px;
 }
-.algorithm h1::after {
-  display: block;
-  height: 2px;
-  background-color: #007991;
-  content: '';
-  width: 700px;
-  animation-name: line_animation2;
-  animation-duration: 1.5s;
-  animation-timing-function: ease-in-out;
-  margin: 45px auto;
-}
+
 .columns{
 	text-align: center;
 	margin: auto;
+	margin-bottom: 40px;
 
 }
 .middle{

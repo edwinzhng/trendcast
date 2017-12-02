@@ -31,6 +31,13 @@ const data = [
 class AI extends Component {
 	render () {
   	return (
+      <div>
+      <div className="aiheader">
+        <h1>Artificial Intelligence</h1>
+        <p>
+          Insert artifical intelligence text here
+        </p>
+      </div>
       <div className="ai">
       	<LineChart width={1040} height={500} data={data}
               margin={{top: 20, right: 30, left: 20, bottom: 20}}>
@@ -53,6 +60,7 @@ class AI extends Component {
           <Bar dataKey="Machine Learning" barSize={20} fill="#413ea0" />
           <Line type="monotone" dataKey="Deep Learning" stroke="#ff7300" />
         </ComposedChart>
+      </div>
       </div>
     );
   }
