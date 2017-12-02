@@ -18,20 +18,18 @@ class Footer extends Component {
   }
   render() {
     return (
-      
 
-      <div className = "foot">
+
+      <div className="foot">
         <Navbar color="faded" light expand="md">
-          <NavbarBrand href="/" className = "logo">trendcast</NavbarBrand>
+          <NavbarBrand href="/" className = "title">trendcast</NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink href="/components/" className = "links">AI</NavLink>
+                <p className = "made">Created at YHack 2017</p>
               </NavItem>
-              <NavItem>
-                <NavLink href="https://github.com/reactstrap/reactstrap" className = "links">Blockchain</NavLink>
-              </NavItem>
+
             </Nav>
           </Collapse>
         </Navbar>
