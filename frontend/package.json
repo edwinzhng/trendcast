@@ -6,6 +6,7 @@
     "bootstrap": "^4.0.0-beta.2",
     "chart.js": "^1.1.1",
     "firebase": "^4.6.2",
+    "jquery": "^3.2.1",
     "papaparse": "^4.3.6",
     "react": "^16.2.0",
     "react-chartjs": "^0.8.0",
@@ -14,9 +15,11 @@
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.17",
+    "react-scroll": "^1.6.7",
     "react-transition-group": "^2.2.1",
     "reactstrap": "^5.0.0-alpha.4",
     "recharts": "^1.0.0-beta.5",
+    "scroll-to-element": "^2.0.0",
     "semantic-ui-react": "^0.77.0"
   },
   "scripts": {
