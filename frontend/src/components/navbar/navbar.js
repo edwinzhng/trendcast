@@ -25,10 +25,10 @@ class Navibar extends Component {
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink href="/components/">AI</NavLink>
+                <NavLink href="/components/" className = "links">AI</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://github.com/reactstrap/reactstrap">Blockchain</NavLink>
+                <NavLink href="https://github.com/reactstrap/reactstrap" className = "links">Blockchain</NavLink>
               </NavItem>
             </Nav>
           </Collapse>

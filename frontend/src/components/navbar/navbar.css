@@ -4,4 +4,13 @@
 }
 .logo{
 	padding-left: 30px;
+	font-size: 130%;
+	font-weight: 700;
+}
+.links:hover{
+	transition: all 0.2s;
+	color: #00d2ff !important;
+}
+.links{
+	font-size: 115%;
 }
