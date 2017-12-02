@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar} from 'recharts';
+import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar, BarChart, ReferenceLine} from 'recharts';
 import './Blockchain.css'
 
 const data = [
@@ -22,9 +22,18 @@ const data = [
 class Blockchain extends Component {
 	render () {
   	return (
+      <div>
+      <div className="blockheader">
+        <h1>Blockchain</h1>
+        <p>
+          Scraping historical data from Google Trends, sentiment analysis of news
+          articles from all major tech news sources, trendcast provides visualization for
+          this data and predicts which cryptocurrencies will disrupt the crypto market.
+        </p>
+      </div>
       <div className="blockchain">
       	<LineChart width={1040} height={500} data={data}
-              margin={{top: 5, right: 30, left: 20, bottom: 10}}>
+              margin={{top: 20, right: 30, left: 20, bottom: 20}}>
            <XAxis dataKey="time"/>
            <YAxis yAxisId="left" />
            <YAxis yAxisId="right" orientation="right" />
@@ -44,6 +53,18 @@ class Blockchain extends Component {
           <Bar dataKey="bitcoin" barSize={20} fill="#413ea0" />
           <Line type="monotone" dataKey="rating" stroke="#ff7300" />
         </ComposedChart>
+        <BarChart width={1000} height={400} data={data}
+              margin={{top: 50, right: 30, left: 20, bottom: 5}}>
+         <XAxis dataKey="name"/>
+         <YAxis/>
+         <CartesianGrid strokeDasharray="3 3"/>
+         <Tooltip/>
+         <Legend />
+         <ReferenceLine y={0} stroke='#000'/>
+         <Bar dataKey="bitcoin" fill="#8884d8" />
+         <Bar dataKey="ethereum" fill="#82ca9d" />
+        </BarChart>
+      </div>
       </div>
     );
   }
