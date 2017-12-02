@@ -4,29 +4,21 @@
   from { width: 0px; }
   to { width: 900px; }
 }
-
-@keyframes opacity_animation {
-  from { opacity: 0% }
-  to { opacity: 100% }
-}
-
 .blockchain {
   align-content: center;
   text-align: center;
-  padding: 30px 0;
+  margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
   width: 1040px;
 }
 
+
 .blockheader{
-  animation-name: opacity_animation;
-  animation-duration: 1.5s;
-  animation-timing-function: ease-in-out;
-	height: 510px;
+	height: 400px;
   background: #145acc;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #03001e, #7303c0, #ec38bc);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #03001e, #7303c0, #ec38bc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right, #000046, #1cb5e0);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,#000046, #1cb5e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	text-align: center;
 }
 
@@ -54,6 +46,10 @@
   font-family: 'Muli', sans-serif;
   color: #fff;
   font-size: 120%;
+  width: 60%;
+  position: relative;
+  text-align: justify;
+  margin: auto;
 }
 
 .header-button {
