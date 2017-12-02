@@ -1,5 +1,5 @@
 .logo:hover {
-	transition: all 0.2s;
+	transition: all 0.1s;
 	color: #3a7bd5 !important;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .links:hover {
-	transition: all 0.2s;
+	transition: all 0.1s;
 	color: #1A222C !important;
 }
 

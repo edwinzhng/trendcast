@@ -18,4 +18,5 @@ body, html {
   animation-duration: 0.5s;
   animation-timing-function: ease-in;
   opacity: 100%;
+  background-color: #fafafa;
 }

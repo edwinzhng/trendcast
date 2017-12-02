@@ -21,7 +21,7 @@ class Navibar extends Component {
     return (
       <div>
         <Navbar color="faded" light expand="md">
-          <NavbarBrand href="/" className = "logo">trendcast</NavbarBrand>
+          <Link to="/"><NavbarBrand href="/" className = "logo">trendcast</NavbarBrand></Link>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
