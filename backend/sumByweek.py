@@ -59,7 +59,7 @@ def averageWeek():
         reader1 = csv.reader(f_in1, delimiter=",")
         writer1 = csv.writer(f_out1, delimiter=",")
         for row in reader1:
-                writer1.writerow((row[0],row[1],"Cryptocurrency",(float(row[3])/float(max))*100.0,row[4]))
+                writer1.writerow((row[0] + "-" + row[1],"Cryptocurrency",(float(row[3])/float(max))*100.0,row[4]))
 
 if __name__ == '__main__':
     # reformat()
