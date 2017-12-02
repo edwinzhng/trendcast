@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Button } from 'semantic-ui-react'
 import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar, BarChart, ReferenceLine} from 'recharts';
 import './Blockchain.css'
 
@@ -26,9 +25,11 @@ class Blockchain extends Component {
       <div>
       <div className="blockheader">
         <h1>Blockchain</h1>
-        <p>Scraping historical data from Google Trends, sentiment analysis of news articles from all major tech news sources, trendcast provides visualization for this data and predicts which cryptocurrencies will disrupt the crypto market.
-</p>
-        
+        <p>
+          Scraping historical data from Google Trends, sentiment analysis of news
+          articles from all major tech news sources, trendcast provides visualization for
+          this data and predicts which cryptocurrencies will disrupt the crypto market.
+        </p>
       </div>
       <div className="blockchain">
       	<LineChart width={1040} height={500} data={data}
