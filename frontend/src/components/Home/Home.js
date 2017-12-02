@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar} from 'recharts';
+import { Container, Row, Col } from 'reactstrap';
 import Header from '../Header/Header.js'
 import './Home.css'
 
@@ -25,6 +26,17 @@ class Home extends Component {
   	return (
       <div className="home">
         <Header />
+        <div className="algorithm">
+        <h1> Our Algorithm </h1>
+        <Container>
+        <Row className = "columns">
+          <Col xs="6" sm="4">Google Trends</Col>
+          <Col xs="6" sm="4" className = "middle">Sentiment Analysis</Col>
+
+          <Col sm="4">Machine Learning</Col>
+        </Row>
+        </Container>
+        </div>
         <div className="home-content">
         	<LineChart width={1040} height={500} data={data}
                 margin={{top: 5, right: 30, left: 20, bottom: 10}}>
