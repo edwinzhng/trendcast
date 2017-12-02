@@ -7,8 +7,10 @@ class App extends Component {
   render() {
     return (
       <div>
-      <Navibar/>
-        <Header />
+        <Navibar/>
+        <div className="main">
+          <Header />
+        </div>
         <Footer />
       </div>
     );
