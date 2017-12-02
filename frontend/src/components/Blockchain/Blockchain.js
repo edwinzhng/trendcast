@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Button } from 'semantic-ui-react'
 import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar, BarChart, ReferenceLine} from 'recharts';
 import './Blockchain.css'
 
@@ -22,6 +23,15 @@ const data = [
 class Blockchain extends Component {
 	render () {
   	return (
+      <div>
+      <div className="blockheader">
+        <h1>Blockchain</h1>
+        <p>Predicting the next big trends in AI and Blockchain</p>
+        <div className="buttons">
+          <Button inverted color='olive' className="header-button">Trending</Button>
+          <Button inverted color='white' className="header-button">Search</Button>
+        </div>
+      </div>
       <div className="blockchain">
       	<LineChart width={1040} height={500} data={data}
               margin={{top: 20, right: 30, left: 20, bottom: 20}}>
@@ -55,6 +65,7 @@ class Blockchain extends Component {
          <Bar dataKey="bitcoin" fill="#8884d8" />
          <Bar dataKey="ethereum" fill="#82ca9d" />
         </BarChart>
+      </div>
       </div>
     );
   }
