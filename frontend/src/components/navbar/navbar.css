@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:200:400|Roboto:700');
+
 .logo:hover {
 	transition: all 0.1s;
 	color: #3a7bd5 !important;
+	text-decoration: none !important;
 }
 
 .logo {
+	color: #212529 !important;
 	padding-left: 70px;
 	font-size: 130%;
 	font-weight: 700;
@@ -15,6 +19,9 @@
 }
 
 .links {
+	font-family: 'Muli', sans-serif;
+	font-weight: 400;
+	color: rgb(158,158,158);
 	margin-right: 70px;
 	font-size: 115%;
 }

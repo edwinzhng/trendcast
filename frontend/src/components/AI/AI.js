@@ -1,6 +1,15 @@
 import React, { Component } from 'react';
+import Papa from 'papaparse';
 import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar} from 'recharts';
-import './AI.css'
+import './AI.css';
+
+const csv = './deep_learning.csv'
+var results = Papa.parse(csv, {
+  header: true,
+  delimiter: ","
+});
+
+console.log(results)
 
 const data = [
       {time: '1', 'Artificial Intelligence': 4000, 'Machine Learning': 2400, 'Deep Learning': 2400},
