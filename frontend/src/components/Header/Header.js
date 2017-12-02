@@ -8,8 +8,8 @@ class Header extends Component {
       <div className="header">
         <h1>Trendcast</h1>
         <div className="buttons">
-          <Button inverted color='blue' className="header-button">Trending</Button>
-          <Button basic color='teal' className="header-button">Search</Button>
+          <Button inverted color='violet' className="header-button">Trending</Button>
+          <Button inverted color='white' className="header-button">Search</Button>
         </div>
       </div>
     );
