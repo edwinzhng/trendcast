@@ -2,9 +2,9 @@
 
 .header{
 	height: 50vh;
-	background: #67b26f;
-  background: -webkit-linear-gradient(to right, #67b26f, #4ca2cd);
-  background: linear-gradient(to right, #67b26f, #4ca2cd);
+	bbackground: #00d2ff;
+	background: -webkit-linear-gradient(to right, #3a7bd5, #00d2ff);
+	background: linear-gradient(to right, #3a7bd5, #00d2ff);
 	text-align: center;
 }
 
