@@ -10,12 +10,12 @@ body, html {
   padding: 0;
   font-family: 'Roboto', sans-serif;
   font-size: 22px;
-  background-color: #ccc;
+  background-color: #fff;
 }
 
 .main {
   animation-name: opacity_animation;
-  animation-duration: 1.5s;
+  animation-duration: 0.5s;
   animation-timing-function: ease-in;
   opacity: 100%;
 }

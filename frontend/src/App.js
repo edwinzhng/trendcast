@@ -4,7 +4,6 @@ import Header from './components/Header/Header.js'
 import Footer from './components/footer/Footer.js'
 import Blockchain from './components/Blockchain/Blockchain.js'
 
-
 class App extends Component {
   render() {
     return (

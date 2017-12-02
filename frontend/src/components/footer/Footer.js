@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './footer.css';
-import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
+import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem} from 'reactstrap';
 
 class Footer extends Component {
    constructor(props) {
@@ -27,9 +27,8 @@ class Footer extends Component {
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <p className = "made">Created at YHack 2017</p>
+                <p className = "made">Made with &hearts; at YHack 2017</p>
               </NavItem>
-
             </Nav>
           </Collapse>
         </Navbar>
