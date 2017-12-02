@@ -14,7 +14,9 @@ class App extends Component {
         <div className="main">
           <Switch>
             <Route exact path='/' component={ Home }/>
+
             <Route path='/artificial-intelligence' component={ AI }/>
+
             <Route path='/blockchain' component={ Blockchain }/>
           </Switch>
         </div>

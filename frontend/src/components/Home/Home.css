@@ -1,3 +1,7 @@
+@keyframes line_animation2 {
+  from { width: 0px; }
+  to { width: 700px; }
+}
 .home-content {
   align-content: center;
   text-align: center;
@@ -5,4 +9,30 @@
   margin-left: auto;
   margin-right: auto;
   width: 1040px;
+}
+.algorithm h1 {
+	font-family: 'Muli', sans-serif;
+	padding-top: 50px;
+	font-size: 300%;
+	color: black;
+	font-weight: 200;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.columns{
+	text-align: center;
+	margin: auto;
+	margin-bottom: 40px;
+
+}
+.middle{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	text-align: center;
+	margin: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+
 }

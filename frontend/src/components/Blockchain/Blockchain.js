@@ -1,6 +1,15 @@
 import React, { Component } from 'react';
+import Papa from 'papaparse';
 import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar, BarChart, ReferenceLine} from 'recharts';
 import './Blockchain.css'
+
+import csv from './google_blockchain.csv'
+var results = Papa.parse(csv, {
+  header: true,
+  delimiter: ","
+});
+
+console.log(results);
 
 const data = [
       {time: '1', blockchain: 4000, bitcoin: 2400, ethereum: 2400},
