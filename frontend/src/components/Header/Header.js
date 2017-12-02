@@ -9,8 +9,8 @@ class Header extends Component {
         <h1>Trendcast</h1>
         <p>Predicting the next big trends in AI and Blockchain</p>
         <div className="buttons">
-          <Button inverted color='olive' className="header-button">Trending</Button>
-          <Button inverted color='white' className="header-button">Search</Button>
+          <Button inverted color='olive' className="header-button">Algorithm</Button>
+          <Button inverted className="header-button">Categories</Button>
         </div>
       </div>
     );
