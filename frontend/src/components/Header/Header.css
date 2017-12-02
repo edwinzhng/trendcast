@@ -1,3 +1,14 @@
-.segment{
+.header{
 	height: 50vh;
+	background: #1CD8D2;
+	background: -webkit-linear-gradient(to right, #93EDC7, #1CD8D2);
+	background: linear-gradient(to right, #93EDC7, #1CD8D2);
+	text-align: center;
+}
+
+.header h1 {
+	padding-top: 50px;
+	font-size: 400%;
+	color: black;
+	font-weight: 300;
 }
