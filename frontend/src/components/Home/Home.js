@@ -71,13 +71,13 @@ class Home extends Component {
            <Row>
           <Col xs="6" className = "aitrending">AI
           <PieChart width={400} height={400} className="piegraph">
-          <Pie isAnimationActive={false} data={data01} cx={200} cy={200} outerRadius={160} fill="#56ab2f" label/> 
+          <Pie isAnimationActive={false} data={data01} cx={200} cy={200} outerRadius={130} fill="#56ab2f" label/> 
           <Tooltip/>
           </PieChart>
           </Col>
           <Col xs="6">Blockchain
           <PieChart width={400} height={400} className="piegraph">
-          <Pie isAnimationActive={false} data={data02} cx={200} cy={200} outerRadius={160} fill="#1cb5e0" label/> 
+          <Pie isAnimationActive={false} data={data02} cx={200} cy={200} outerRadius={130} fill="#1e90ff" label/> 
           <Tooltip/>
           </PieChart>
           </Col>
