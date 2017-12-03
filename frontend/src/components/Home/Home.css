@@ -56,3 +56,13 @@
 .fa-line-chart {
   color: #c7db37;
 }
+.trending{
+	text-align: center;
+}
+.aitrending{
+	border-right: 1px solid rgba(34,36,38,.15);
+}
+.piegraph{
+	text-align:center;
+	margin: auto;
+}
