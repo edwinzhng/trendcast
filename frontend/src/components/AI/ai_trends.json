@@ -4,935 +4,1039 @@
     "Artificial Intelligence": 41,
     "Biometrics": 25,
     "Computer Vision": 8,
-    "Deep Learning": 12,
-    "Natural Language Processing": 8,
-    "Machine Learning": 37
+    "Deep Learning": 12.6,
+    "Natural Language Processing": 7.3,
+    "Machine Learning": 37.8,
+    "": ""
   },
   {
     "Week": "2015-12-13",
-    "Artificial Intelligence": 41,
+    "Artificial Intelligence": 40.7,
     "Biometrics": 25,
-    "Computer Vision": 8,
-    "Deep Learning": 14,
-    "Natural Language Processing": 7,
-    "Machine Learning": 38
+    "Computer Vision": 8.4,
+    "Deep Learning": 12.6,
+    "Natural Language Processing": 7.6,
+    "Machine Learning": 37,
+    "": ""
   },
   {
     "Week": "2015-12-20",
-    "Artificial Intelligence": 39,
-    "Biometrics": 19,
-    "Computer Vision": 6,
+    "Artificial Intelligence": 38.5,
+    "Biometrics": 20.1,
+    "Computer Vision": 5.3,
     "Deep Learning": 10,
-    "Natural Language Processing": 5,
-    "Machine Learning": 29
+    "Natural Language Processing": 4.8,
+    "Machine Learning": 27.8,
+    "": ""
   },
   {
     "Week": "2015-12-27",
     "Artificial Intelligence": 37,
-    "Biometrics": 19,
-    "Computer Vision": 6,
-    "Deep Learning": 9,
-    "Natural Language Processing": 5,
-    "Machine Learning": 26
+    "Biometrics": 18.5,
+    "Computer Vision": 5.3,
+    "Deep Learning": 8.9,
+    "Natural Language Processing": 4.4,
+    "Machine Learning": 27.7,
+    "": ""
   },
   {
     "Week": "2016-01-03",
-    "Artificial Intelligence": 43,
-    "Biometrics": 32,
+    "Artificial Intelligence": 41.4,
+    "Biometrics": 32.8,
     "Computer Vision": 7,
-    "Deep Learning": 13,
-    "Natural Language Processing": 7,
-    "Machine Learning": 32
+    "Deep Learning": 13.4,
+    "Natural Language Processing": 7.8,
+    "Machine Learning": 34,
+    "": ""
   },
   {
     "Week": "2016-01-10",
-    "Artificial Intelligence": 39,
-    "Biometrics": 35,
+    "Artificial Intelligence": 37.2,
+    "Biometrics": 36,
     "Computer Vision": 7,
-    "Deep Learning": 12,
-    "Natural Language Processing": 6,
-    "Machine Learning": 35
+    "Deep Learning": 13,
+    "Natural Language Processing": 6.6,
+    "Machine Learning": 34.8,
+    "": ""
   },
   {
     "Week": "2016-01-17",
-    "Artificial Intelligence": 41,
-    "Biometrics": 39,
-    "Computer Vision": 7,
-    "Deep Learning": 15,
-    "Natural Language Processing": 7,
-    "Machine Learning": 36
+    "Artificial Intelligence": 40.7,
+    "Biometrics": 37.2,
+    "Computer Vision": 7.1,
+    "Deep Learning": 15.7,
+    "Natural Language Processing": 8.3,
+    "Machine Learning": 35.8,
+    "": ""
   },
   {
     "Week": "2016-01-24",
-    "Artificial Intelligence": 42,
-    "Biometrics": 40,
-    "Computer Vision": 8,
-    "Deep Learning": 19,
-    "Natural Language Processing": 7,
-    "Machine Learning": 38
+    "Artificial Intelligence": 41.1,
+    "Biometrics": 41.1,
+    "Computer Vision": 9,
+    "Deep Learning": 19.5,
+    "Natural Language Processing": 6.2,
+    "Machine Learning": 36.9,
+    "": ""
   },
   {
     "Week": "2016-01-31",
-    "Artificial Intelligence": 39,
-    "Biometrics": 35,
+    "Artificial Intelligence": 38.4,
+    "Biometrics": 37,
     "Computer Vision": 8,
-    "Deep Learning": 14,
+    "Deep Learning": 14.1,
     "Natural Language Processing": 8,
-    "Machine Learning": 36
+    "Machine Learning": 36,
+    "": ""
   },
   {
     "Week": "2016-02-07",
-    "Artificial Intelligence": 38,
-    "Biometrics": 30,
-    "Computer Vision": 8,
-    "Deep Learning": 13,
+    "Artificial Intelligence": 38.2,
+    "Biometrics": 29.3,
+    "Computer Vision": 8.6,
+    "Deep Learning": 11.7,
     "Natural Language Processing": 7,
-    "Machine Learning": 37
+    "Machine Learning": 36.2,
+    "": ""
   },
   {
     "Week": "2016-02-14",
-    "Artificial Intelligence": 39,
-    "Biometrics": 36,
+    "Artificial Intelligence": 41,
+    "Biometrics": 34.4,
     "Computer Vision": 8,
-    "Deep Learning": 14,
-    "Natural Language Processing": 7,
-    "Machine Learning": 36
+    "Deep Learning": 14.5,
+    "Natural Language Processing": 5.6,
+    "Machine Learning": 35.1,
+    "": ""
   },
   {
     "Week": "2016-02-21",
     "Artificial Intelligence": 40,
     "Biometrics": 38,
-    "Computer Vision": 8,
-    "Deep Learning": 14,
+    "Computer Vision": 8.5,
+    "Deep Learning": 13.5,
     "Natural Language Processing": 7,
-    "Machine Learning": 37
+    "Machine Learning": 36.3,
+    "": ""
   },
   {
     "Week": "2016-02-28",
-    "Artificial Intelligence": 39,
+    "Artificial Intelligence": 38.1,
     "Biometrics": 34,
     "Computer Vision": 9,
-    "Deep Learning": 14,
-    "Natural Language Processing": 8,
-    "Machine Learning": 37
+    "Deep Learning": 15.5,
+    "Natural Language Processing": 9,
+    "Machine Learning": 37,
+    "": ""
   },
   {
     "Week": "2016-03-06",
     "Artificial Intelligence": 50,
-    "Biometrics": 34,
-    "Computer Vision": 8,
-    "Deep Learning": 19,
+    "Biometrics": 35.9,
+    "Computer Vision": 7.4,
+    "Deep Learning": 19.4,
     "Natural Language Processing": 8,
-    "Machine Learning": 41
+    "Machine Learning": 42,
+    "": ""
   },
   {
     "Week": "2016-03-13",
     "Artificial Intelligence": 52,
-    "Biometrics": 36,
-    "Computer Vision": 8,
-    "Deep Learning": 21,
-    "Natural Language Processing": 7,
-    "Machine Learning": 41
+    "Biometrics": 35.7,
+    "Computer Vision": 8.3,
+    "Deep Learning": 20.2,
+    "Natural Language Processing": 6.8,
+    "Machine Learning": 40,
+    "": ""
   },
   {
     "Week": "2016-03-20",
-    "Artificial Intelligence": 68,
-    "Biometrics": 33,
+    "Artificial Intelligence": 68.8,
+    "Biometrics": 32.7,
     "Computer Vision": 8,
     "Deep Learning": 17,
-    "Natural Language Processing": 7,
-    "Machine Learning": 39
+    "Natural Language Processing": 8.9,
+    "Machine Learning": 38.7,
+    "": ""
   },
   {
     "Week": "2016-03-27",
-    "Artificial Intelligence": 58,
-    "Biometrics": 35,
-    "Computer Vision": 7,
+    "Artificial Intelligence": 56.7,
+    "Biometrics": 34.8,
+    "Computer Vision": 7.3,
     "Deep Learning": 17,
-    "Natural Language Processing": 8,
-    "Machine Learning": 40
+    "Natural Language Processing": 8.6,
+    "Machine Learning": 40.5,
+    "": ""
   },
   {
     "Week": "2016-04-03",
-    "Artificial Intelligence": 48,
-    "Biometrics": 29,
-    "Computer Vision": 8,
-    "Deep Learning": 20,
+    "Artificial Intelligence": 48.5,
+    "Biometrics": 30.4,
+    "Computer Vision": 10,
+    "Deep Learning": 21.5,
     "Natural Language Processing": 9,
-    "Machine Learning": 42
+    "Machine Learning": 41.9,
+    "": ""
   },
   {
     "Week": "2016-04-10",
-    "Artificial Intelligence": 46,
-    "Biometrics": 28,
+    "Artificial Intelligence": 47.9,
+    "Biometrics": 28.6,
     "Computer Vision": 8,
-    "Deep Learning": 18,
-    "Natural Language Processing": 8,
-    "Machine Learning": 40
+    "Deep Learning": 18.7,
+    "Natural Language Processing": 6.3,
+    "Machine Learning": 40,
+    "": ""
   },
   {
     "Week": "2016-04-17",
-    "Artificial Intelligence": 44,
-    "Biometrics": 27,
-    "Computer Vision": 8,
-    "Deep Learning": 18,
-    "Natural Language Processing": 8,
-    "Machine Learning": 41
+    "Artificial Intelligence": 43.9,
+    "Biometrics": 27.1,
+    "Computer Vision": 9.5,
+    "Deep Learning": 17.5,
+    "Natural Language Processing": 8.4,
+    "Machine Learning": 41.2,
+    "": ""
   },
   {
     "Week": "2016-04-24",
-    "Artificial Intelligence": 45,
-    "Biometrics": 30,
-    "Computer Vision": 8,
-    "Deep Learning": 17,
-    "Natural Language Processing": 8,
-    "Machine Learning": 40
+    "Artificial Intelligence": 45.6,
+    "Biometrics": 28.8,
+    "Computer Vision": 9.5,
+    "Deep Learning": 18.1,
+    "Natural Language Processing": 8.8,
+    "Machine Learning": 40,
+    "": ""
   },
   {
     "Week": "2016-05-01",
-    "Artificial Intelligence": 45,
-    "Biometrics": 41,
+    "Artificial Intelligence": 43.4,
+    "Biometrics": 40.7,
     "Computer Vision": 7,
-    "Deep Learning": 16,
-    "Natural Language Processing": 7,
-    "Machine Learning": 40
+    "Deep Learning": 15.6,
+    "Natural Language Processing": 7.1,
+    "Machine Learning": 40.7,
+    "": ""
   },
   {
     "Week": "2016-05-08",
     "Artificial Intelligence": 46,
-    "Biometrics": 24,
-    "Computer Vision": 7,
-    "Deep Learning": 18,
-    "Natural Language Processing": 9,
-    "Machine Learning": 41
+    "Biometrics": 23.3,
+    "Computer Vision": 5.2,
+    "Deep Learning": 17,
+    "Natural Language Processing": 10.1,
+    "Machine Learning": 41.3,
+    "": ""
   },
   {
     "Week": "2016-05-15",
-    "Artificial Intelligence": 50,
-    "Biometrics": 21,
-    "Computer Vision": 8,
-    "Deep Learning": 18,
-    "Natural Language Processing": 9,
-    "Machine Learning": 43
+    "Artificial Intelligence": 51.7,
+    "Biometrics": 21.7,
+    "Computer Vision": 6.5,
+    "Deep Learning": 18.7,
+    "Natural Language Processing": 9.3,
+    "Machine Learning": 43.2,
+    "": ""
   },
   {
     "Week": "2016-05-22",
-    "Artificial Intelligence": 46,
-    "Biometrics": 19,
-    "Computer Vision": 8,
-    "Deep Learning": 17,
+    "Artificial Intelligence": 45.7,
+    "Biometrics": 19.6,
+    "Computer Vision": 6.6,
+    "Deep Learning": 16.7,
     "Natural Language Processing": 9,
-    "Machine Learning": 43
+    "Machine Learning": 42.6,
+    "": ""
   },
   {
     "Week": "2016-05-29",
-    "Artificial Intelligence": 48,
-    "Biometrics": 21,
-    "Computer Vision": 8,
-    "Deep Learning": 17,
-    "Natural Language Processing": 7,
-    "Machine Learning": 41
+    "Artificial Intelligence": 48.3,
+    "Biometrics": 20.4,
+    "Computer Vision": 8.6,
+    "Deep Learning": 17.1,
+    "Natural Language Processing": 7.2,
+    "Machine Learning": 39.9,
+    "": ""
   },
   {
     "Week": "2016-06-05",
-    "Artificial Intelligence": 49,
-    "Biometrics": 20,
-    "Computer Vision": 8,
-    "Deep Learning": 17,
+    "Artificial Intelligence": 48.6,
+    "Biometrics": 19.6,
+    "Computer Vision": 7.9,
+    "Deep Learning": 17.5,
     "Natural Language Processing": 8,
-    "Machine Learning": 41
+    "Machine Learning": 40.8,
+    "": ""
   },
   {
     "Week": "2016-06-12",
     "Artificial Intelligence": 45,
     "Biometrics": 19,
-    "Computer Vision": 8,
-    "Deep Learning": 18,
-    "Natural Language Processing": 8,
-    "Machine Learning": 43
+    "Computer Vision": 6.3,
+    "Deep Learning": 17.4,
+    "Natural Language Processing": 7.2,
+    "Machine Learning": 43.9,
+    "": ""
   },
   {
     "Week": "2016-06-19",
-    "Artificial Intelligence": 43,
-    "Biometrics": 19,
+    "Artificial Intelligence": 42.6,
+    "Biometrics": 20.7,
     "Computer Vision": 7,
-    "Deep Learning": 18,
-    "Natural Language Processing": 8,
-    "Machine Learning": 43
+    "Deep Learning": 17.1,
+    "Natural Language Processing": 8.4,
+    "Machine Learning": 42.5,
+    "": ""
   },
   {
     "Week": "2016-06-26",
-    "Artificial Intelligence": 43,
-    "Biometrics": 19,
+    "Artificial Intelligence": 44.3,
+    "Biometrics": 18.8,
     "Computer Vision": 7,
     "Deep Learning": 19,
-    "Natural Language Processing": 8,
-    "Machine Learning": 42
+    "Natural Language Processing": 6,
+    "Machine Learning": 43.3,
+    "": ""
   },
   {
     "Week": "2016-07-03",
-    "Artificial Intelligence": 40,
-    "Biometrics": 19,
+    "Artificial Intelligence": 39,
+    "Biometrics": 20.8,
     "Computer Vision": 7,
-    "Deep Learning": 17,
-    "Natural Language Processing": 7,
-    "Machine Learning": 38
+    "Deep Learning": 17.1,
+    "Natural Language Processing": 5,
+    "Machine Learning": 38.6,
+    "": ""
   },
   {
     "Week": "2016-07-10",
-    "Artificial Intelligence": 37,
-    "Biometrics": 21,
-    "Computer Vision": 7,
-    "Deep Learning": 16,
-    "Natural Language Processing": 7,
-    "Machine Learning": 39
+    "Artificial Intelligence": 37.7,
+    "Biometrics": 21.9,
+    "Computer Vision": 7.6,
+    "Deep Learning": 16.7,
+    "Natural Language Processing": 7.2,
+    "Machine Learning": 38.4,
+    "": ""
   },
   {
     "Week": "2016-07-17",
-    "Artificial Intelligence": 38,
-    "Biometrics": 19,
-    "Computer Vision": 7,
-    "Deep Learning": 17,
-    "Natural Language Processing": 7,
-    "Machine Learning": 39
+    "Artificial Intelligence": 38.1,
+    "Biometrics": 19.7,
+    "Computer Vision": 6.3,
+    "Deep Learning": 17.8,
+    "Natural Language Processing": 6.5,
+    "Machine Learning": 37.2,
+    "": ""
   },
   {
     "Week": "2016-07-24",
     "Artificial Intelligence": 38,
-    "Biometrics": 20,
-    "Computer Vision": 7,
+    "Biometrics": 20.5,
+    "Computer Vision": 7.3,
     "Deep Learning": 16,
     "Natural Language Processing": 8,
-    "Machine Learning": 40
+    "Machine Learning": 40,
+    "": ""
   },
   {
     "Week": "2016-07-31",
-    "Artificial Intelligence": 37,
-    "Biometrics": 20,
-    "Computer Vision": 7,
-    "Deep Learning": 17,
-    "Natural Language Processing": 8,
-    "Machine Learning": 42
+    "Artificial Intelligence": 35.5,
+    "Biometrics": 18.4,
+    "Computer Vision": 7.7,
+    "Deep Learning": 17.4,
+    "Natural Language Processing": 7.2,
+    "Machine Learning": 41.9,
+    "": ""
   },
   {
     "Week": "2016-08-07",
     "Artificial Intelligence": 36,
-    "Biometrics": 19,
-    "Computer Vision": 6,
-    "Deep Learning": 17,
-    "Natural Language Processing": 7,
-    "Machine Learning": 39
+    "Biometrics": 19.8,
+    "Computer Vision": 6.4,
+    "Deep Learning": 16.3,
+    "Natural Language Processing": 6.6,
+    "Machine Learning": 39,
+    "": ""
   },
   {
     "Week": "2016-08-14",
     "Artificial Intelligence": 35,
     "Biometrics": 18,
-    "Computer Vision": 6,
+    "Computer Vision": 6.2,
     "Deep Learning": 13,
-    "Natural Language Processing": 6,
-    "Machine Learning": 37
+    "Natural Language Processing": 6.9,
+    "Machine Learning": 37,
+    "": ""
   },
   {
     "Week": "2016-08-21",
     "Artificial Intelligence": 38,
-    "Biometrics": 19,
-    "Computer Vision": 7,
-    "Deep Learning": 17,
-    "Natural Language Processing": 8,
-    "Machine Learning": 45
+    "Biometrics": 17.1,
+    "Computer Vision": 6.7,
+    "Deep Learning": 15.1,
+    "Natural Language Processing": 8.5,
+    "Machine Learning": 46.6,
+    "": ""
   },
   {
     "Week": "2016-08-28",
-    "Artificial Intelligence": 40,
-    "Biometrics": 20,
-    "Computer Vision": 8,
-    "Deep Learning": 19,
-    "Natural Language Processing": 8,
-    "Machine Learning": 44
+    "Artificial Intelligence": 39.5,
+    "Biometrics": 20.1,
+    "Computer Vision": 7.7,
+    "Deep Learning": 18.8,
+    "Natural Language Processing": 7.6,
+    "Machine Learning": 44.7,
+    "": ""
   },
   {
     "Week": "2016-09-04",
-    "Artificial Intelligence": 41,
-    "Biometrics": 19,
-    "Computer Vision": 8,
-    "Deep Learning": 18,
-    "Natural Language Processing": 8,
-    "Machine Learning": 44
+    "Artificial Intelligence": 41.9,
+    "Biometrics": 19.4,
+    "Computer Vision": 8.7,
+    "Deep Learning": 19.2,
+    "Natural Language Processing": 8.6,
+    "Machine Learning": 44.3,
+    "": ""
   },
   {
     "Week": "2016-09-11",
-    "Artificial Intelligence": 42,
-    "Biometrics": 21,
-    "Computer Vision": 7,
-    "Deep Learning": 19,
-    "Natural Language Processing": 8,
-    "Machine Learning": 47
+    "Artificial Intelligence": 41,
+    "Biometrics": 22.3,
+    "Computer Vision": 7.8,
+    "Deep Learning": 20.5,
+    "Natural Language Processing": 9.8,
+    "Machine Learning": 47.6,
+    "": ""
   },
   {
     "Week": "2016-09-18",
-    "Artificial Intelligence": 44,
-    "Biometrics": 25,
+    "Artificial Intelligence": 44.6,
+    "Biometrics": 23.9,
     "Computer Vision": 8,
-    "Deep Learning": 19,
-    "Natural Language Processing": 9,
-    "Machine Learning": 50
+    "Deep Learning": 19.7,
+    "Natural Language Processing": 9.2,
+    "Machine Learning": 50.1,
+    "": ""
   },
   {
     "Week": "2016-09-25",
     "Artificial Intelligence": 49,
-    "Biometrics": 26,
-    "Computer Vision": 8,
-    "Deep Learning": 20,
+    "Biometrics": 25.6,
+    "Computer Vision": 8.5,
+    "Deep Learning": 21.8,
     "Natural Language Processing": 8,
-    "Machine Learning": 51
+    "Machine Learning": 51.2,
+    "": ""
   },
   {
     "Week": "2016-10-02",
-    "Artificial Intelligence": 50,
-    "Biometrics": 26,
+    "Artificial Intelligence": 50.7,
+    "Biometrics": 25.7,
     "Computer Vision": 8,
-    "Deep Learning": 22,
-    "Natural Language Processing": 8,
-    "Machine Learning": 50
+    "Deep Learning": 21.9,
+    "Natural Language Processing": 8.8,
+    "Machine Learning": 50,
+    "": ""
   },
   {
     "Week": "2016-10-09",
-    "Artificial Intelligence": 51,
-    "Biometrics": 23,
-    "Computer Vision": 8,
-    "Deep Learning": 22,
-    "Natural Language Processing": 8,
-    "Machine Learning": 49
+    "Artificial Intelligence": 50.4,
+    "Biometrics": 21.2,
+    "Computer Vision": 8.6,
+    "Deep Learning": 22.4,
+    "Natural Language Processing": 8.8,
+    "Machine Learning": 48.5,
+    "": ""
   },
   {
     "Week": "2016-10-16",
-    "Artificial Intelligence": 51,
+    "Artificial Intelligence": 52.9,
     "Biometrics": 23,
-    "Computer Vision": 8,
-    "Deep Learning": 21,
+    "Computer Vision": 7.6,
+    "Deep Learning": 21.9,
     "Natural Language Processing": 9,
-    "Machine Learning": 54
+    "Machine Learning": 54,
+    "": ""
   },
   {
     "Week": "2016-10-23",
-    "Artificial Intelligence": 52,
-    "Biometrics": 22,
-    "Computer Vision": 8,
-    "Deep Learning": 23,
+    "Artificial Intelligence": 52.9,
+    "Biometrics": 20.7,
+    "Computer Vision": 9.5,
+    "Deep Learning": 23.1,
     "Natural Language Processing": 9,
-    "Machine Learning": 56
+    "Machine Learning": 56.9,
+    "": ""
   },
   {
     "Week": "2016-10-30",
-    "Artificial Intelligence": 54,
+    "Artificial Intelligence": 52.3,
     "Biometrics": 22,
-    "Computer Vision": 9,
-    "Deep Learning": 23,
-    "Natural Language Processing": 10,
-    "Machine Learning": 53
+    "Computer Vision": 10.3,
+    "Deep Learning": 22.6,
+    "Natural Language Processing": 9.4,
+    "Machine Learning": 53,
+    "": ""
   },
   {
     "Week": "2016-11-06",
     "Artificial Intelligence": 51,
-    "Biometrics": 22,
-    "Computer Vision": 8,
-    "Deep Learning": 21,
-    "Natural Language Processing": 8,
-    "Machine Learning": 52
+    "Biometrics": 22.8,
+    "Computer Vision": 7.7,
+    "Deep Learning": 21.9,
+    "Natural Language Processing": 7.1,
+    "Machine Learning": 51.9,
+    "": ""
   },
   {
     "Week": "2016-11-13",
-    "Artificial Intelligence": 56,
-    "Biometrics": 22,
+    "Artificial Intelligence": 56.2,
+    "Biometrics": 22.2,
     "Computer Vision": 8,
-    "Deep Learning": 25,
-    "Natural Language Processing": 10,
-    "Machine Learning": 60
+    "Deep Learning": 25.3,
+    "Natural Language Processing": 9.2,
+    "Machine Learning": 60,
+    "": ""
   },
   {
     "Week": "2016-11-20",
-    "Artificial Intelligence": 54,
-    "Biometrics": 22,
+    "Artificial Intelligence": 53.1,
+    "Biometrics": 21.6,
     "Computer Vision": 8,
-    "Deep Learning": 23,
-    "Natural Language Processing": 9,
-    "Machine Learning": 56
+    "Deep Learning": 23.2,
+    "Natural Language Processing": 8.6,
+    "Machine Learning": 55.6,
+    "": ""
   },
   {
     "Week": "2016-11-27",
-    "Artificial Intelligence": 55,
-    "Biometrics": 23,
-    "Computer Vision": 9,
-    "Deep Learning": 25,
+    "Artificial Intelligence": 55.5,
+    "Biometrics": 24,
+    "Computer Vision": 9.1,
+    "Deep Learning": 26.7,
     "Natural Language Processing": 10,
-    "Machine Learning": 59
+    "Machine Learning": 58.6,
+    "": ""
   },
   {
     "Week": "2016-12-04",
-    "Artificial Intelligence": 56,
-    "Biometrics": 22,
+    "Artificial Intelligence": 56.3,
+    "Biometrics": 20.8,
     "Computer Vision": 9,
-    "Deep Learning": 27,
-    "Natural Language Processing": 10,
-    "Machine Learning": 60
+    "Deep Learning": 28,
+    "Natural Language Processing": 10.5,
+    "Machine Learning": 60.9,
+    "": ""
   },
   {
     "Week": "2016-12-11",
-    "Artificial Intelligence": 53,
-    "Biometrics": 22,
-    "Computer Vision": 9,
-    "Deep Learning": 25,
-    "Natural Language Processing": 9,
-    "Machine Learning": 59
+    "Artificial Intelligence": 54.7,
+    "Biometrics": 21,
+    "Computer Vision": 7.8,
+    "Deep Learning": 24.2,
+    "Natural Language Processing": 8.7,
+    "Machine Learning": 59.3,
+    "": ""
   },
   {
     "Week": "2016-12-18",
-    "Artificial Intelligence": 55,
-    "Biometrics": 22,
-    "Computer Vision": 7,
-    "Deep Learning": 24,
-    "Natural Language Processing": 9,
-    "Machine Learning": 56
+    "Artificial Intelligence": 56.8,
+    "Biometrics": 23.6,
+    "Computer Vision": 5,
+    "Deep Learning": 23.2,
+    "Natural Language Processing": 9.5,
+    "Machine Learning": 57.7,
+    "": ""
   },
   {
     "Week": "2016-12-25",
-    "Artificial Intelligence": 47,
-    "Biometrics": 21,
-    "Computer Vision": 7,
-    "Deep Learning": 20,
-    "Natural Language Processing": 7,
-    "Machine Learning": 44
+    "Artificial Intelligence": 46.3,
+    "Biometrics": 21.5,
+    "Computer Vision": 6.4,
+    "Deep Learning": 20.6,
+    "Natural Language Processing": 7.8,
+    "Machine Learning": 44.8,
+    "": ""
   },
   {
     "Week": "2017-01-01",
     "Artificial Intelligence": 55,
-    "Biometrics": 25,
-    "Computer Vision": 7,
+    "Biometrics": 25.7,
+    "Computer Vision": 6.9,
     "Deep Learning": 24,
-    "Natural Language Processing": 8,
-    "Machine Learning": 56
+    "Natural Language Processing": 7.3,
+    "Machine Learning": 56.8,
+    "": ""
   },
   {
     "Week": "2017-01-08",
-    "Artificial Intelligence": 57,
-    "Biometrics": 26,
-    "Computer Vision": 9,
-    "Deep Learning": 28,
-    "Natural Language Processing": 10,
-    "Machine Learning": 63
+    "Artificial Intelligence": 55.3,
+    "Biometrics": 24.3,
+    "Computer Vision": 10,
+    "Deep Learning": 27.8,
+    "Natural Language Processing": 10.5,
+    "Machine Learning": 64.6,
+    "": ""
   },
   {
     "Week": "2017-01-15",
     "Artificial Intelligence": 54,
-    "Biometrics": 26,
-    "Computer Vision": 9,
-    "Deep Learning": 28,
-    "Natural Language Processing": 10,
-    "Machine Learning": 63
+    "Biometrics": 26.6,
+    "Computer Vision": 7.4,
+    "Deep Learning": 26.9,
+    "Natural Language Processing": 10.1,
+    "Machine Learning": 63.6,
+    "": ""
   },
   {
     "Week": "2017-01-22",
-    "Artificial Intelligence": 53,
-    "Biometrics": 26,
-    "Computer Vision": 9,
+    "Artificial Intelligence": 53.5,
+    "Biometrics": 24.2,
+    "Computer Vision": 9.1,
     "Deep Learning": 27,
-    "Natural Language Processing": 11,
-    "Machine Learning": 64
+    "Natural Language Processing": 10.7,
+    "Machine Learning": 64.3,
+    "": ""
   },
   {
     "Week": "2017-01-29",
-    "Artificial Intelligence": 55,
-    "Biometrics": 27,
-    "Computer Vision": 9,
+    "Artificial Intelligence": 53.2,
+    "Biometrics": 25.9,
+    "Computer Vision": 8.7,
     "Deep Learning": 27,
-    "Natural Language Processing": 10,
-    "Machine Learning": 64
+    "Natural Language Processing": 10.8,
+    "Machine Learning": 64.7,
+    "": ""
   },
   {
     "Week": "2017-02-05",
     "Artificial Intelligence": 56,
-    "Biometrics": 25,
-    "Computer Vision": 9,
+    "Biometrics": 24.7,
+    "Computer Vision": 7.8,
     "Deep Learning": 29,
-    "Natural Language Processing": 11,
-    "Machine Learning": 65
+    "Natural Language Processing": 12.1,
+    "Machine Learning": 66.3,
+    "": ""
   },
   {
     "Week": "2017-02-12",
-    "Artificial Intelligence": 56,
+    "Artificial Intelligence": 57,
     "Biometrics": 24,
-    "Computer Vision": 9,
-    "Deep Learning": 29,
-    "Natural Language Processing": 11,
-    "Machine Learning": 68
+    "Computer Vision": 9.7,
+    "Deep Learning": 28.5,
+    "Natural Language Processing": 10.4,
+    "Machine Learning": 68.9,
+    "": ""
   },
   {
     "Week": "2017-02-19",
     "Artificial Intelligence": 58,
-    "Biometrics": 25,
-    "Computer Vision": 10,
-    "Deep Learning": 31,
-    "Natural Language Processing": 10,
-    "Machine Learning": 69
+    "Biometrics": 25.6,
+    "Computer Vision": 10.2,
+    "Deep Learning": 30.9,
+    "Natural Language Processing": 11.2,
+    "Machine Learning": 68.6,
+    "": ""
   },
   {
     "Week": "2017-02-26",
-    "Artificial Intelligence": 57,
+    "Artificial Intelligence": 57.7,
     "Biometrics": 25,
     "Computer Vision": 9,
     "Deep Learning": 30,
-    "Natural Language Processing": 11,
-    "Machine Learning": 72
+    "Natural Language Processing": 12.2,
+    "Machine Learning": 70.1,
+    "": ""
   },
   {
     "Week": "2017-03-05",
     "Artificial Intelligence": 58,
-    "Biometrics": 25,
-    "Computer Vision": 9,
+    "Biometrics": 25.1,
+    "Computer Vision": 7,
     "Deep Learning": 30,
-    "Natural Language Processing": 12,
-    "Machine Learning": 70
+    "Natural Language Processing": 10,
+    "Machine Learning": 70,
+    "": ""
   },
   {
     "Week": "2017-03-12",
-    "Artificial Intelligence": 58,
-    "Biometrics": 25,
-    "Computer Vision": 8,
-    "Deep Learning": 31,
+    "Artificial Intelligence": 59.3,
+    "Biometrics": 24.8,
+    "Computer Vision": 8.4,
+    "Deep Learning": 31.1,
     "Natural Language Processing": 11,
-    "Machine Learning": 71
+    "Machine Learning": 72,
+    "": ""
   },
   {
     "Week": "2017-03-19",
-    "Artificial Intelligence": 57,
-    "Biometrics": 24,
-    "Computer Vision": 9,
+    "Artificial Intelligence": 56.7,
+    "Biometrics": 23.3,
+    "Computer Vision": 9.6,
     "Deep Learning": 32,
-    "Natural Language Processing": 11,
-    "Machine Learning": 72
+    "Natural Language Processing": 11.3,
+    "Machine Learning": 71.9,
+    "": ""
   },
   {
     "Week": "2017-03-26",
-    "Artificial Intelligence": 62,
-    "Biometrics": 25,
-    "Computer Vision": 10,
-    "Deep Learning": 31,
-    "Natural Language Processing": 11,
-    "Machine Learning": 75
+    "Artificial Intelligence": 61.8,
+    "Biometrics": 24.9,
+    "Computer Vision": 10.7,
+    "Deep Learning": 31.2,
+    "Natural Language Processing": 12.2,
+    "Machine Learning": 73.2,
+    "": ""
   },
   {
     "Week": "2017-04-02",
-    "Artificial Intelligence": 60,
-    "Biometrics": 24,
-    "Computer Vision": 9,
-    "Deep Learning": 32,
-    "Natural Language Processing": 11,
-    "Machine Learning": 74
+    "Artificial Intelligence": 60.7,
+    "Biometrics": 23.3,
+    "Computer Vision": 10.6,
+    "Deep Learning": 32.1,
+    "Natural Language Processing": 12.1,
+    "Machine Learning": 72.6,
+    "": ""
   },
   {
     "Week": "2017-04-09",
-    "Artificial Intelligence": 59,
-    "Biometrics": 22,
-    "Computer Vision": 9,
-    "Deep Learning": 31,
+    "Artificial Intelligence": 58.9,
+    "Biometrics": 21,
+    "Computer Vision": 9.5,
+    "Deep Learning": 30.6,
     "Natural Language Processing": 11,
-    "Machine Learning": 76
+    "Machine Learning": 76.4,
+    "": ""
   },
   {
     "Week": "2017-04-16",
-    "Artificial Intelligence": 60,
-    "Biometrics": 24,
+    "Artificial Intelligence": 59.4,
+    "Biometrics": 24.3,
     "Computer Vision": 9,
-    "Deep Learning": 31,
-    "Natural Language Processing": 12,
-    "Machine Learning": 73
+    "Deep Learning": 29.9,
+    "Natural Language Processing": 10.7,
+    "Machine Learning": 72,
+    "": ""
   },
   {
     "Week": "2017-04-23",
-    "Artificial Intelligence": 61,
-    "Biometrics": 25,
-    "Computer Vision": 9,
-    "Deep Learning": 33,
-    "Natural Language Processing": 11,
-    "Machine Learning": 75
+    "Artificial Intelligence": 59.6,
+    "Biometrics": 24.5,
+    "Computer Vision": 9.4,
+    "Deep Learning": 34.2,
+    "Natural Language Processing": 12.8,
+    "Machine Learning": 74.3,
+    "": ""
   },
   {
     "Week": "2017-04-30",
-    "Artificial Intelligence": 58,
-    "Biometrics": 25,
-    "Computer Vision": 8,
-    "Deep Learning": 30,
-    "Natural Language Processing": 11,
-    "Machine Learning": 75
+    "Artificial Intelligence": 57.4,
+    "Biometrics": 23.3,
+    "Computer Vision": 7.8,
+    "Deep Learning": 29.9,
+    "Natural Language Processing": 11.7,
+    "Machine Learning": 75,
+    "": ""
   },
   {
     "Week": "2017-05-07",
     "Artificial Intelligence": 61,
-    "Biometrics": 24,
-    "Computer Vision": 8,
-    "Deep Learning": 34,
+    "Biometrics": 23,
+    "Computer Vision": 8.6,
+    "Deep Learning": 33.9,
     "Natural Language Processing": 11,
-    "Machine Learning": 75
+    "Machine Learning": 75,
+    "": ""
   },
   {
     "Week": "2017-05-14",
-    "Artificial Intelligence": 63,
-    "Biometrics": 25,
-    "Computer Vision": 8,
-    "Deep Learning": 32,
-    "Natural Language Processing": 12,
-    "Machine Learning": 77
+    "Artificial Intelligence": 62.4,
+    "Biometrics": 25.5,
+    "Computer Vision": 8.7,
+    "Deep Learning": 31.9,
+    "Natural Language Processing": 12.6,
+    "Machine Learning": 76.4,
+    "": ""
   },
   {
     "Week": "2017-05-21",
     "Artificial Intelligence": 66,
     "Biometrics": 25,
-    "Computer Vision": 8,
-    "Deep Learning": 32,
+    "Computer Vision": 9,
+    "Deep Learning": 32.6,
     "Natural Language Processing": 11,
-    "Machine Learning": 80
+    "Machine Learning": 80,
+    "": ""
   },
   {
     "Week": "2017-05-28",
     "Artificial Intelligence": 60,
-    "Biometrics": 26,
-    "Computer Vision": 8,
-    "Deep Learning": 31,
-    "Natural Language Processing": 10,
-    "Machine Learning": 75
+    "Biometrics": 25.3,
+    "Computer Vision": 7.9,
+    "Deep Learning": 32.3,
+    "Natural Language Processing": 8.7,
+    "Machine Learning": 75.4,
+    "": ""
   },
   {
     "Week": "2017-06-04",
-    "Artificial Intelligence": 57,
+    "Artificial Intelligence": 58.8,
     "Biometrics": 27,
     "Computer Vision": 7,
-    "Deep Learning": 32,
-    "Natural Language Processing": 10,
-    "Machine Learning": 78
+    "Deep Learning": 32.8,
+    "Natural Language Processing": 9.1,
+    "Machine Learning": 79,
+    "": ""
   },
   {
     "Week": "2017-06-11",
-    "Artificial Intelligence": 59,
-    "Biometrics": 26,
-    "Computer Vision": 8,
-    "Deep Learning": 31,
-    "Natural Language Processing": 10,
-    "Machine Learning": 78
+    "Artificial Intelligence": 58.6,
+    "Biometrics": 25.4,
+    "Computer Vision": 7.5,
+    "Deep Learning": 29.6,
+    "Natural Language Processing": 8.2,
+    "Machine Learning": 77.3,
+    "": ""
   },
   {
     "Week": "2017-06-18",
-    "Artificial Intelligence": 60,
+    "Artificial Intelligence": 60.1,
     "Biometrics": 28,
-    "Computer Vision": 8,
-    "Deep Learning": 33,
-    "Natural Language Processing": 10,
-    "Machine Learning": 80
+    "Computer Vision": 7.9,
+    "Deep Learning": 33.2,
+    "Natural Language Processing": 10.3,
+    "Machine Learning": 79.5,
+    "": ""
   },
   {
     "Week": "2017-06-25",
-    "Artificial Intelligence": 64,
-    "Biometrics": 29,
+    "Artificial Intelligence": 64.4,
+    "Biometrics": 27.4,
     "Computer Vision": 7,
-    "Deep Learning": 32,
+    "Deep Learning": 31.7,
     "Natural Language Processing": 11,
-    "Machine Learning": 75
+    "Machine Learning": 75,
+    "": ""
   },
   {
     "Week": "2017-07-02",
-    "Artificial Intelligence": 57,
-    "Biometrics": 29,
-    "Computer Vision": 7,
+    "Artificial Intelligence": 57.2,
+    "Biometrics": 29.7,
+    "Computer Vision": 7.6,
     "Deep Learning": 30,
     "Natural Language Processing": 9,
-    "Machine Learning": 72
+    "Machine Learning": 71,
+    "": ""
   },
   {
     "Week": "2017-07-09",
     "Artificial Intelligence": 60,
-    "Biometrics": 29,
+    "Biometrics": 28.8,
     "Computer Vision": 8,
-    "Deep Learning": 31,
-    "Natural Language Processing": 10,
-    "Machine Learning": 77
+    "Deep Learning": 30.5,
+    "Natural Language Processing": 10.7,
+    "Machine Learning": 75.7,
+    "": ""
   },
   {
     "Week": "2017-07-16",
-    "Artificial Intelligence": 64,
-    "Biometrics": 33,
-    "Computer Vision": 9,
-    "Deep Learning": 32,
+    "Artificial Intelligence": 64.5,
+    "Biometrics": 31.8,
+    "Computer Vision": 10,
+    "Deep Learning": 31.8,
     "Natural Language Processing": 10,
-    "Machine Learning": 78
+    "Machine Learning": 79.8,
+    "": ""
   },
   {
     "Week": "2017-07-23",
-    "Artificial Intelligence": 67,
-    "Biometrics": 30,
-    "Computer Vision": 8,
+    "Artificial Intelligence": 65.4,
+    "Biometrics": 29.6,
+    "Computer Vision": 8.8,
     "Deep Learning": 33,
-    "Natural Language Processing": 11,
-    "Machine Learning": 77
+    "Natural Language Processing": 12.1,
+    "Machine Learning": 77,
+    "": ""
   },
   {
     "Week": "2017-07-30",
-    "Artificial Intelligence": 100,
-    "Biometrics": 31,
-    "Computer Vision": 8,
+    "Artificial Intelligence": 100.2,
+    "Biometrics": 29.9,
+    "Computer Vision": 7.8,
     "Deep Learning": 31,
-    "Natural Language Processing": 11,
-    "Machine Learning": 78
+    "Natural Language Processing": 11.7,
+    "Machine Learning": 78.9,
+    "": ""
   },
   {
     "Week": "2017-08-06",
-    "Artificial Intelligence": 68,
-    "Biometrics": 29,
-    "Computer Vision": 7,
-    "Deep Learning": 34,
+    "Artificial Intelligence": 66.3,
+    "Biometrics": 29.4,
+    "Computer Vision": 7.1,
+    "Deep Learning": 33.8,
     "Natural Language Processing": 10,
-    "Machine Learning": 76
+    "Machine Learning": 76.4,
+    "": ""
   },
   {
     "Week": "2017-08-13",
-    "Artificial Intelligence": 66,
-    "Biometrics": 29,
-    "Computer Vision": 7,
+    "Artificial Intelligence": 66.7,
+    "Biometrics": 29.7,
+    "Computer Vision": 6.4,
     "Deep Learning": 34,
-    "Natural Language Processing": 9,
-    "Machine Learning": 75
+    "Natural Language Processing": 9.4,
+    "Machine Learning": 74.1,
+    "": ""
   },
   {
     "Week": "2017-08-20",
-    "Artificial Intelligence": 65,
-    "Biometrics": 30,
-    "Computer Vision": 8,
+    "Artificial Intelligence": 65.9,
+    "Biometrics": 30.8,
+    "Computer Vision": 6.4,
     "Deep Learning": 33,
     "Natural Language Processing": 10,
-    "Machine Learning": 76
+    "Machine Learning": 74.3,
+    "": ""
   },
   {
     "Week": "2017-08-27",
     "Artificial Intelligence": 63,
-    "Biometrics": 29,
-    "Computer Vision": 8,
-    "Deep Learning": 33,
-    "Natural Language Processing": 9,
-    "Machine Learning": 79
+    "Biometrics": 28.2,
+    "Computer Vision": 7.1,
+    "Deep Learning": 33.6,
+    "Natural Language Processing": 8.6,
+    "Machine Learning": 78.9,
+    "": ""
   },
   {
     "Week": "2017-09-03",
     "Artificial Intelligence": 72,
-    "Biometrics": 29,
-    "Computer Vision": 9,
+    "Biometrics": 28.2,
+    "Computer Vision": 8.3,
     "Deep Learning": 35,
-    "Natural Language Processing": 10,
-    "Machine Learning": 80
+    "Natural Language Processing": 9.6,
+    "Machine Learning": 80,
+    "": ""
   },
   {
     "Week": "2017-09-10",
-    "Artificial Intelligence": 70,
-    "Biometrics": 33,
+    "Artificial Intelligence": 71.7,
+    "Biometrics": 32.3,
     "Computer Vision": 9,
-    "Deep Learning": 36,
-    "Natural Language Processing": 11,
-    "Machine Learning": 89
+    "Deep Learning": 36.8,
+    "Natural Language Processing": 11.4,
+    "Machine Learning": 87.1,
+    "": ""
   },
   {
     "Week": "2017-09-17",
     "Artificial Intelligence": 69,
     "Biometrics": 31,
-    "Computer Vision": 9,
+    "Computer Vision": 8.5,
     "Deep Learning": 38,
-    "Natural Language Processing": 12,
-    "Machine Learning": 89
+    "Natural Language Processing": 12.4,
+    "Machine Learning": 89,
+    "": ""
   },
   {
     "Week": "2017-09-24",
     "Artificial Intelligence": 69,
-    "Biometrics": 33,
+    "Biometrics": 31.8,
     "Computer Vision": 10,
-    "Deep Learning": 36,
-    "Natural Language Processing": 11,
-    "Machine Learning": 85
+    "Deep Learning": 34.3,
+    "Natural Language Processing": 12.3,
+    "Machine Learning": 83.7,
+    "": ""
   },
   {
     "Week": "2017-10-01",
-    "Artificial Intelligence": 70,
-    "Biometrics": 31,
-    "Computer Vision": 9,
-    "Deep Learning": 34,
-    "Natural Language Processing": 10,
-    "Machine Learning": 86
+    "Artificial Intelligence": 71.6,
+    "Biometrics": 29,
+    "Computer Vision": 7.4,
+    "Deep Learning": 33.5,
+    "Natural Language Processing": 10.9,
+    "Machine Learning": 86.2,
+    "": ""
   },
   {
     "Week": "2017-10-08",
     "Artificial Intelligence": 73,
-    "Biometrics": 30,
-    "Computer Vision": 9,
-    "Deep Learning": 36,
+    "Biometrics": 29.9,
+    "Computer Vision": 7.5,
+    "Deep Learning": 34.8,
     "Natural Language Processing": 12,
-    "Machine Learning": 92
+    "Machine Learning": 92.5,
+    "": ""
   },
   {
     "Week": "2017-10-15",
-    "Artificial Intelligence": 75,
-    "Biometrics": 33,
-    "Computer Vision": 9,
+    "Artificial Intelligence": 74.9,
+    "Biometrics": 33.3,
+    "Computer Vision": 10.2,
     "Deep Learning": 37,
     "Natural Language Processing": 11,
-    "Machine Learning": 91
+    "Machine Learning": 91.6,
+    "": ""
   },
   {
     "Week": "2017-10-22",
-    "Artificial Intelligence": 86,
-    "Biometrics": 34,
+    "Artificial Intelligence": 86.7,
+    "Biometrics": 33.7,
     "Computer Vision": 9,
-    "Deep Learning": 37,
-    "Natural Language Processing": 12,
-    "Machine Learning": 97
+    "Deep Learning": 36.2,
+    "Natural Language Processing": 10.4,
+    "Machine Learning": 97.9,
+    "": ""
   },
   {
     "Week": "2017-10-29",
-    "Artificial Intelligence": 83,
+    "Artificial Intelligence": 83.3,
     "Biometrics": 32,
-    "Computer Vision": 9,
+    "Computer Vision": 8.6,
     "Deep Learning": 39,
-    "Natural Language Processing": 13,
-    "Machine Learning": 96
+    "Natural Language Processing": 11.9,
+    "Machine Learning": 96,
+    "": ""
   },
   {
     "Week": "2017-11-05",
-    "Artificial Intelligence": 89,
-    "Biometrics": 33,
-    "Computer Vision": 10,
-    "Deep Learning": 41,
+    "Artificial Intelligence": 90,
+    "Biometrics": 39.3,
+    "Computer Vision": 10.6,
+    "Deep Learning": 40.1,
     "Natural Language Processing": 13,
-    "Machine Learning": 99
+    "Machine Learning": 98.3,
+    "": ""
   },
   {
     "Week": "2017-11-12",
-    "Artificial Intelligence": 86,
-    "Biometrics": 32,
-    "Computer Vision": 10,
-    "Deep Learning": 41,
-    "Natural Language Processing": 13,
-    "Machine Learning": 99
+    "Artificial Intelligence": 85.8,
+    "Biometrics": 42.7,
+    "Computer Vision": 10.1,
+    "Deep Learning": 39.1,
+    "Natural Language Processing": 12.7,
+    "Machine Learning": 97.1,
+    "": ""
   },
   {
     "Week": "2017-11-19",
-    "Artificial Intelligence": 81,
-    "Biometrics": 77,
-    "Computer Vision": 9,
-    "Deep Learning": 38,
-    "Natural Language Processing": 12,
-    "Machine Learning": 89
+    "Artificial Intelligence": 80.9,
+    "Biometrics": 67.8,
+    "Computer Vision": 9.5,
+    "Deep Learning": 38.2,
+    "Natural Language Processing": 11.1,
+    "Machine Learning": 89.6,
+    "": ""
   },
   {
     "Week": "2017-11-26",
-    "Artificial Intelligence": 89,
-    "Biometrics": 53,
-    "Computer Vision": 11,
+    "Artificial Intelligence": 88.2,
+    "Biometrics": 52.3,
+    "Computer Vision": 9.1,
     "Deep Learning": 42,
-    "Natural Language Processing": 12,
-    "Machine Learning": 100
+    "Natural Language Processing": 11.4,
+    "Machine Learning": 99.1,
+    "": ""
   }
 ]

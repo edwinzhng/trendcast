@@ -23,8 +23,9 @@ class Blockchain extends Component {
              <Legend />
              <Line yAxisId="blockchain" type="monotone" dataKey="Blockchain" stroke="#c7db37"/>
              <Line yAxisId="blockchain" type="monotone" dataKey="Bitcoin" stroke="#78d9e7" />
-             <Line yAxisId="blockchain" type="monotone" dataKey="Ethereum" stroke="#e778d9" />
+             <Line yAxisId="blockchain" type="monotone" dataKey="Ethereum" stroke="#000046" />
              <Line yAxisId="blockchain" type="monotone" dataKey="Ripple" stroke="#82ca9d" />
+             <Line yAxisId="blockchain" type="monotone" dataKey="Litecoin" stroke="#8884d8" />
           </LineChart>
         </div>
       </div>
