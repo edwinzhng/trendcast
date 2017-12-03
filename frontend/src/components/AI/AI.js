@@ -25,7 +25,8 @@ class AI extends Component {
            <Line yAxisId="left" type="monotone" dataKey="Machine Learning" stroke="#82ca9d" />
 					 <Line yAxisId="left" type="monotone" dataKey="Deep Learning" stroke="#78d9e7"/>
 					 <Line yAxisId="left" type="monotone" dataKey="Natural Language Processing" stroke="#e778d9"/>
-					 <Line yAxisId="left" type="monotone" dataKey="Computer Vision" stroke="#8884d8"/>
+					 <Line yAxisId="left" type="monotone" dataKey="Computer Vision" stroke="#000046"/>
+					 <Line yAxisId="left" type="monotone" dataKey="Biometrics" stroke="#a8e063"/>
         </LineChart>
       </div>
       </div>
