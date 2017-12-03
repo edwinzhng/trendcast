@@ -5,8 +5,7 @@
     "Ripple": 1,
     "Blockchain": 0.6,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2015-12-13",
@@ -14,8 +13,7 @@
     "Ripple": 1,
     "Blockchain": 0,
     "Ethereum": 0.3,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2015-12-20",
@@ -23,8 +21,7 @@
     "Ripple": 1,
     "Blockchain": 1,
     "Ethereum": 0,
-    "Litecoin": 0.4,
-    "": ""
+    "Litecoin": 0.4
   },
   {
     "Week": "2015-12-27",
@@ -32,8 +29,7 @@
     "Ripple": 0.8,
     "Blockchain": 0,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-01-03",
@@ -41,8 +37,7 @@
     "Ripple": 1.7,
     "Blockchain": 0.3,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-01-10",
@@ -50,8 +45,7 @@
     "Ripple": 1,
     "Blockchain": 0,
     "Ethereum": 0.9,
-    "Litecoin": 0.6,
-    "": ""
+    "Litecoin": 0.6
   },
   {
     "Week": "2016-01-17",
@@ -59,8 +53,7 @@
     "Ripple": 1,
     "Blockchain": 0,
     "Ethereum": 0,
-    "Litecoin": 0.5,
-    "": ""
+    "Litecoin": 0.5
   },
   {
     "Week": "2016-01-24",
@@ -68,8 +61,7 @@
     "Ripple": 1.1,
     "Blockchain": 0.4,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-01-31",
@@ -77,8 +69,7 @@
     "Ripple": 0.8,
     "Blockchain": 0,
     "Ethereum": 0,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2016-02-07",
@@ -86,8 +77,7 @@
     "Ripple": 0.8,
     "Blockchain": 0,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-02-14",
@@ -95,8 +85,7 @@
     "Ripple": 1,
     "Blockchain": 1,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-02-21",
@@ -104,8 +93,7 @@
     "Ripple": 1.8,
     "Blockchain": 0,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-02-28",
@@ -113,8 +101,7 @@
     "Ripple": 0.5,
     "Blockchain": 0.4,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-03-06",
@@ -122,8 +109,7 @@
     "Ripple": 1,
     "Blockchain": 0,
     "Ethereum": 1,
-    "Litecoin": 0.4,
-    "": ""
+    "Litecoin": 0.4
   },
   {
     "Week": "2016-03-13",
@@ -131,8 +117,7 @@
     "Ripple": 1.1,
     "Blockchain": 0,
     "Ethereum": 0.8,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-03-20",
@@ -140,8 +125,7 @@
     "Ripple": 1.1,
     "Blockchain": 1,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-03-27",
@@ -149,8 +133,7 @@
     "Ripple": 1,
     "Blockchain": 0.2,
     "Ethereum": 1,
-    "Litecoin": 0.8,
-    "": ""
+    "Litecoin": 0.8
   },
   {
     "Week": "2016-04-03",
@@ -158,8 +141,7 @@
     "Ripple": 1,
     "Blockchain": 0,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-04-10",
@@ -167,8 +149,7 @@
     "Ripple": 0.6,
     "Blockchain": 1,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-04-17",
@@ -176,8 +157,7 @@
     "Ripple": 0.3,
     "Blockchain": 0.9,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-04-24",
@@ -185,8 +165,7 @@
     "Ripple": 1.6,
     "Blockchain": 0.1,
     "Ethereum": 0.9,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-05-01",
@@ -194,8 +173,7 @@
     "Ripple": 1.2,
     "Blockchain": 0.9,
     "Ethereum": 1.1,
-    "Litecoin": 0.2,
-    "": ""
+    "Litecoin": 0.2
   },
   {
     "Week": "2016-05-08",
@@ -203,8 +181,7 @@
     "Ripple": 1.6,
     "Blockchain": 1,
     "Ethereum": 1.6,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-05-15",
@@ -212,8 +189,7 @@
     "Ripple": 0.5,
     "Blockchain": 1.7,
     "Ethereum": 1.5,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-05-22",
@@ -221,8 +197,7 @@
     "Ripple": 1,
     "Blockchain": 1.9,
     "Ethereum": 1.2,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-05-29",
@@ -230,8 +205,7 @@
     "Ripple": 1,
     "Blockchain": 0,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-06-05",
@@ -239,8 +213,7 @@
     "Ripple": 0.2,
     "Blockchain": 1,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-06-12",
@@ -248,8 +221,7 @@
     "Ripple": 0.3,
     "Blockchain": 0.9,
     "Ethereum": 0.4,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-06-19",
@@ -257,8 +229,7 @@
     "Ripple": 0.4,
     "Blockchain": 1.8,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-06-26",
@@ -266,8 +237,7 @@
     "Ripple": 1,
     "Blockchain": 1.9,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-07-03",
@@ -275,8 +245,7 @@
     "Ripple": 1.4,
     "Blockchain": 1.5,
     "Ethereum": 2,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-07-10",
@@ -284,8 +253,7 @@
     "Ripple": 0.9,
     "Blockchain": 1.6,
     "Ethereum": 0.2,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-07-17",
@@ -293,8 +261,7 @@
     "Ripple": 1,
     "Blockchain": 1.5,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-07-24",
@@ -302,8 +269,7 @@
     "Ripple": 1.3,
     "Blockchain": 0.5,
     "Ethereum": 2,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-07-31",
@@ -311,8 +277,7 @@
     "Ripple": 1.6,
     "Blockchain": 0.1,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-08-07",
@@ -320,8 +285,7 @@
     "Ripple": 0.3,
     "Blockchain": 0.7,
     "Ethereum": 1.2,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-08-14",
@@ -329,8 +293,7 @@
     "Ripple": 0,
     "Blockchain": 1.1,
     "Ethereum": 0.1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-08-21",
@@ -338,8 +301,7 @@
     "Ripple": 1.9,
     "Blockchain": 0.1,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-08-28",
@@ -347,8 +309,7 @@
     "Ripple": 0.7,
     "Blockchain": 0.3,
     "Ethereum": 0,
-    "Litecoin": 0.4,
-    "": ""
+    "Litecoin": 0.4
   },
   {
     "Week": "2016-09-04",
@@ -356,8 +317,7 @@
     "Ripple": 1.7,
     "Blockchain": 1.6,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-09-11",
@@ -365,8 +325,7 @@
     "Ripple": 1,
     "Blockchain": 1.5,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-09-18",
@@ -374,8 +333,7 @@
     "Ripple": 2,
     "Blockchain": 1,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-09-25",
@@ -383,8 +341,7 @@
     "Ripple": 1,
     "Blockchain": 1.9,
     "Ethereum": 0.9,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-10-02",
@@ -392,8 +349,7 @@
     "Ripple": 1,
     "Blockchain": 0.4,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-10-09",
@@ -401,8 +357,7 @@
     "Ripple": 1.2,
     "Blockchain": 1.6,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-10-16",
@@ -410,8 +365,7 @@
     "Ripple": 1,
     "Blockchain": 0.6,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-10-23",
@@ -419,8 +373,7 @@
     "Ripple": 0.9,
     "Blockchain": 0,
     "Ethereum": 0.5,
-    "Litecoin": 0.8,
-    "": ""
+    "Litecoin": 0.8
   },
   {
     "Week": "2016-10-30",
@@ -428,8 +381,7 @@
     "Ripple": 0.5,
     "Blockchain": 0.5,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-11-06",
@@ -437,8 +389,7 @@
     "Ripple": 0.8,
     "Blockchain": 1,
     "Ethereum": 0.4,
-    "Litecoin": 0.1,
-    "": ""
+    "Litecoin": 0.1
   },
   {
     "Week": "2016-11-13",
@@ -446,8 +397,7 @@
     "Ripple": 1.1,
     "Blockchain": 1.8,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-11-20",
@@ -455,8 +405,7 @@
     "Ripple": 1,
     "Blockchain": 1.4,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-11-27",
@@ -464,8 +413,7 @@
     "Ripple": 0.3,
     "Blockchain": 1,
     "Ethereum": 0.6,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-12-04",
@@ -473,8 +421,7 @@
     "Ripple": 1,
     "Blockchain": 0.7,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-12-11",
@@ -482,8 +429,7 @@
     "Ripple": 0.4,
     "Blockchain": 1.8,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-12-18",
@@ -491,8 +437,7 @@
     "Ripple": 0.1,
     "Blockchain": 1.1,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2016-12-25",
@@ -500,8 +445,7 @@
     "Ripple": 0.4,
     "Blockchain": 0,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-01-01",
@@ -509,8 +453,7 @@
     "Ripple": 1.9,
     "Blockchain": 1,
     "Ethereum": 1.2,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-01-08",
@@ -518,8 +461,7 @@
     "Ripple": 0.1,
     "Blockchain": 1,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-01-15",
@@ -527,8 +469,7 @@
     "Ripple": 2,
     "Blockchain": 1,
     "Ethereum": 0,
-    "Litecoin": 0.2,
-    "": ""
+    "Litecoin": 0.2
   },
   {
     "Week": "2017-01-22",
@@ -536,8 +477,7 @@
     "Ripple": 1,
     "Blockchain": 1.8,
     "Ethereum": 0.4,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-01-29",
@@ -545,8 +485,7 @@
     "Ripple": 1,
     "Blockchain": 1.4,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-02-05",
@@ -554,8 +493,7 @@
     "Ripple": 0.6,
     "Blockchain": 0.6,
     "Ethereum": 0,
-    "Litecoin": 0.6,
-    "": ""
+    "Litecoin": 0.6
   },
   {
     "Week": "2017-02-12",
@@ -563,8 +501,7 @@
     "Ripple": 0.2,
     "Blockchain": 1.3,
     "Ethereum": 0,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-02-19",
@@ -572,8 +509,7 @@
     "Ripple": 1.4,
     "Blockchain": 1.6,
     "Ethereum": 0.6,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-02-26",
@@ -581,8 +517,7 @@
     "Ripple": 0.5,
     "Blockchain": 1.7,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-03-05",
@@ -590,8 +525,7 @@
     "Ripple": 0.7,
     "Blockchain": 1,
     "Ethereum": 1.1,
-    "Litecoin": 0.8,
-    "": ""
+    "Litecoin": 0.8
   },
   {
     "Week": "2017-03-12",
@@ -599,8 +533,7 @@
     "Ripple": 1,
     "Blockchain": 0.4,
     "Ethereum": 2.9,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-03-19",
@@ -608,8 +541,7 @@
     "Ripple": 1.4,
     "Blockchain": 1.1,
     "Ethereum": 2.3,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-03-26",
@@ -617,8 +549,7 @@
     "Ripple": 1,
     "Blockchain": 0.9,
     "Ethereum": 1,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-04-02",
@@ -626,8 +557,7 @@
     "Ripple": 1.8,
     "Blockchain": 1,
     "Ethereum": 1.9,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-04-09",
@@ -635,8 +565,7 @@
     "Ripple": 1.3,
     "Blockchain": 1.3,
     "Ethereum": 1.5,
-    "Litecoin": 0.5,
-    "": ""
+    "Litecoin": 0.5
   },
   {
     "Week": "2017-04-16",
@@ -644,8 +573,7 @@
     "Ripple": 1,
     "Blockchain": 1,
     "Ethereum": 1.7,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-04-23",
@@ -653,8 +581,7 @@
     "Ripple": 0.6,
     "Blockchain": 0.5,
     "Ethereum": 2,
-    "Litecoin": 0,
-    "": ""
+    "Litecoin": 0
   },
   {
     "Week": "2017-04-30",
@@ -662,8 +589,7 @@
     "Ripple": 2,
     "Blockchain": 1.8,
     "Ethereum": 3.1,
-    "Litecoin": 1.4,
-    "": ""
+    "Litecoin": 1.4
   },
   {
     "Week": "2017-05-07",
@@ -671,8 +597,7 @@
     "Ripple": 2,
     "Blockchain": 1.5,
     "Ethereum": 2,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-05-14",
@@ -680,8 +605,7 @@
     "Ripple": 3,
     "Blockchain": 1.3,
     "Ethereum": 3.6,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-05-21",
@@ -689,8 +613,7 @@
     "Ripple": 3,
     "Blockchain": 2.5,
     "Ethereum": 8.8,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-05-28",
@@ -698,8 +621,7 @@
     "Ripple": 2,
     "Blockchain": 1.4,
     "Ethereum": 6.5,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-06-04",
@@ -707,8 +629,7 @@
     "Ripple": 2,
     "Blockchain": 2,
     "Ethereum": 8.2,
-    "Litecoin": 1.3,
-    "": ""
+    "Litecoin": 1.3
   },
   {
     "Week": "2017-06-11",
@@ -716,8 +637,7 @@
     "Ripple": 2,
     "Blockchain": 1.3,
     "Ethereum": 12.4,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-06-18",
@@ -725,8 +645,7 @@
     "Ripple": 2,
     "Blockchain": 2,
     "Ethereum": 10,
-    "Litecoin": 1.3,
-    "": ""
+    "Litecoin": 1.3
   },
   {
     "Week": "2017-06-25",
@@ -734,8 +653,7 @@
     "Ripple": 2.2,
     "Blockchain": 2,
     "Ethereum": 8.6,
-    "Litecoin": 0.6,
-    "": ""
+    "Litecoin": 0.6
   },
   {
     "Week": "2017-07-02",
@@ -743,8 +661,7 @@
     "Ripple": 0.8,
     "Blockchain": 2,
     "Ethereum": 6,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-07-09",
@@ -752,8 +669,7 @@
     "Ripple": 1.7,
     "Blockchain": 1.8,
     "Ethereum": 8,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-07-16",
@@ -761,8 +677,7 @@
     "Ripple": 1.7,
     "Blockchain": 2,
     "Ethereum": 7,
-    "Litecoin": 0.5,
-    "": ""
+    "Litecoin": 0.5
   },
   {
     "Week": "2017-07-23",
@@ -770,8 +685,7 @@
     "Ripple": 2,
     "Blockchain": 1.6,
     "Ethereum": 4,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-07-30",
@@ -779,8 +693,7 @@
     "Ripple": 2,
     "Blockchain": 2,
     "Ethereum": 3.6,
-    "Litecoin": 0.3,
-    "": ""
+    "Litecoin": 0.3
   },
   {
     "Week": "2017-08-06",
@@ -788,8 +701,7 @@
     "Ripple": 1.3,
     "Blockchain": 2.7,
     "Ethereum": 5,
-    "Litecoin": 0.4,
-    "": ""
+    "Litecoin": 0.4
   },
   {
     "Week": "2017-08-13",
@@ -797,8 +709,7 @@
     "Ripple": 2.3,
     "Blockchain": 2.8,
     "Ethereum": 6.9,
-    "Litecoin": 1.1,
-    "": ""
+    "Litecoin": 1.1
   },
   {
     "Week": "2017-08-20",
@@ -806,8 +717,7 @@
     "Ripple": 3.8,
     "Blockchain": 1.3,
     "Ethereum": 5.6,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-08-27",
@@ -815,8 +725,7 @@
     "Ripple": 2.5,
     "Blockchain": 2.9,
     "Ethereum": 5.9,
-    "Litecoin": 3.6,
-    "": ""
+    "Litecoin": 3.6
   },
   {
     "Week": "2017-09-03",
@@ -824,8 +733,7 @@
     "Ripple": 1.5,
     "Blockchain": 2,
     "Ethereum": 5.3,
-    "Litecoin": 2,
-    "": ""
+    "Litecoin": 2
   },
   {
     "Week": "2017-09-10",
@@ -833,8 +741,7 @@
     "Ripple": 2.4,
     "Blockchain": 2,
     "Ethereum": 5.6,
-    "Litecoin": 1.9,
-    "": ""
+    "Litecoin": 1.9
   },
   {
     "Week": "2017-09-17",
@@ -842,8 +749,7 @@
     "Ripple": 1.4,
     "Blockchain": 3.2,
     "Ethereum": 5,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-09-24",
@@ -851,8 +757,7 @@
     "Ripple": 2.4,
     "Blockchain": 3,
     "Ethereum": 2.8,
-    "Litecoin": 1.9,
-    "": ""
+    "Litecoin": 1.9
   },
   {
     "Week": "2017-10-01",
@@ -860,8 +765,7 @@
     "Ripple": 2.5,
     "Blockchain": 3,
     "Ethereum": 3,
-    "Litecoin": 1.1,
-    "": ""
+    "Litecoin": 1.1
   },
   {
     "Week": "2017-10-08",
@@ -869,8 +773,7 @@
     "Ripple": 3,
     "Blockchain": 3,
     "Ethereum": 4,
-    "Litecoin": 1.1,
-    "": ""
+    "Litecoin": 1.1
   },
   {
     "Week": "2017-10-15",
@@ -878,8 +781,7 @@
     "Ripple": 3,
     "Blockchain": 4.3,
     "Ethereum": 5.2,
-    "Litecoin": 1.1,
-    "": ""
+    "Litecoin": 1.1
   },
   {
     "Week": "2017-10-22",
@@ -887,8 +789,7 @@
     "Ripple": 1.4,
     "Blockchain": 4,
     "Ethereum": 4.5,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-10-29",
@@ -896,8 +797,7 @@
     "Ripple": 2,
     "Blockchain": 6,
     "Ethereum": 5.4,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-11-05",
@@ -905,8 +805,7 @@
     "Ripple": 1.6,
     "Blockchain": 6.6,
     "Ethereum": 6,
-    "Litecoin": 2.7,
-    "": ""
+    "Litecoin": 2.7
   },
   {
     "Week": "2017-11-12",
@@ -914,8 +813,7 @@
     "Ripple": 3,
     "Blockchain": 4.9,
     "Ethereum": 5.9,
-    "Litecoin": 1,
-    "": ""
+    "Litecoin": 1
   },
   {
     "Week": "2017-11-19",
@@ -923,16 +821,430 @@
     "Ripple": 3,
     "Blockchain": 4.7,
     "Ethereum": 8,
-    "Litecoin": 1.8,
-    "": ""
+    "Litecoin": 1.8
   },
   {
     "Week": "2017-11-26",
     "Bitcoin": 100,
     "Ripple": 4.4,
-    "Blockchain": 7,
+    "Blockchain": 6.2,
     "Ethereum": 12,
-    "Litecoin": 5,
-    "": ""
+    "Litecoin": 5
+  },
+  {
+    "Week": "2017-12-03",
+    "Bitcoin": 99.2,
+    "Ripple": 4.4,
+    "Blockchain": 5.3,
+    "Ethereum": 12.1,
+    "Litecoin": 4.9
+  },
+  {
+    "Week": "2017-12-10",
+    "Bitcoin": 98.3,
+    "Ripple": 4.4,
+    "Blockchain": 5,
+    "Ethereum": 12.9,
+    "Litecoin": 6.2
+  },
+  {
+    "Week": "2017-12-17",
+    "Bitcoin": 97.6,
+    "Ripple": 4.4,
+    "Blockchain": 5,
+    "Ethereum": 13.9,
+    "Litecoin": 4.9
+  },
+  {
+    "Week": "2017-12-24",
+    "Bitcoin": 97.6,
+    "Ripple": 4.6,
+    "Blockchain": 5.1,
+    "Ethereum": 15.9,
+    "Litecoin": 4.2
+  },
+  {
+    "Week": "2017-12-31",
+    "Bitcoin": 97.9,
+    "Ripple": 4.3,
+    "Blockchain": 5.1,
+    "Ethereum": 11.2,
+    "Litecoin": 5.3
+  },
+  {
+    "Week": "2018-01-07",
+    "Bitcoin": 97.5,
+    "Ripple": 6.4,
+    "Blockchain": 5.3,
+    "Ethereum": 11.8,
+    "Litecoin": 5.4
+  },
+  {
+    "Week": "2018-01-14",
+    "Bitcoin": 97,
+    "Ripple": 4.3,
+    "Blockchain": 6.3,
+    "Ethereum": 12.9,
+    "Litecoin": 4.8
+  },
+  {
+    "Week": "2018-01-21",
+    "Bitcoin": 95.9,
+    "Ripple": 4.2,
+    "Blockchain": 6.3,
+    "Ethereum": 12.8,
+    "Litecoin": 5.6
+  },
+  {
+    "Week": "2018-01-28",
+    "Bitcoin": 96.6,
+    "Ripple": 4.3,
+    "Blockchain": 5.7,
+    "Ethereum": 12.2,
+    "Litecoin": 4.8
+  },
+  {
+    "Week": "2018-02-04",
+    "Bitcoin": 96.3,
+    "Ripple": 4.4,
+    "Blockchain": 5.3,
+    "Ethereum": 11.7,
+    "Litecoin": 4.7
+  },
+  {
+    "Week": "2018-02-11",
+    "Bitcoin": 96.3,
+    "Ripple": 4.5,
+    "Blockchain": 5.5,
+    "Ethereum": 11.7,
+    "Litecoin": 4.8
+  },
+  {
+    "Week": "2018-02-18",
+    "Bitcoin": 95.5,
+    "Ripple": 4.1,
+    "Blockchain": 5.5,
+    "Ethereum": 12.3,
+    "Litecoin": 4.8
+  },
+  {
+    "Week": "2018-02-25",
+    "Bitcoin": 95.2,
+    "Ripple": 4.3,
+    "Blockchain": 5.5,
+    "Ethereum": 12.2,
+    "Litecoin": 5.1
+  },
+  {
+    "Week": "2018-03-04",
+    "Bitcoin": 95.5,
+    "Ripple": 4.2,
+    "Blockchain": 5.7,
+    "Ethereum": 12.3,
+    "Litecoin": 4.8
+  },
+  {
+    "Week": "2018-03-11",
+    "Bitcoin": 95.2,
+    "Ripple": 4.2,
+    "Blockchain": 5.7,
+    "Ethereum": 12.3,
+    "Litecoin": 4.7
+  },
+  {
+    "Week": "2018-03-18",
+    "Bitcoin": 95.6,
+    "Ripple": 4.2,
+    "Blockchain": 5.8,
+    "Ethereum": 12.3,
+    "Litecoin": 5.3
+  },
+  {
+    "Week": "2018-03-25",
+    "Bitcoin": 94.2,
+    "Ripple": 4.2,
+    "Blockchain": 6.4,
+    "Ethereum": 11.6,
+    "Litecoin": 4.8
+  },
+  {
+    "Week": "2018-04-01",
+    "Bitcoin": 94.8,
+    "Ripple": 4.1,
+    "Blockchain": 6.3,
+    "Ethereum": 11.7,
+    "Litecoin": 4.1
+  },
+  {
+    "Week": "2018-04-08",
+    "Bitcoin": 95.1,
+    "Ripple": 4.1,
+    "Blockchain": 6.2,
+    "Ethereum": 11.7,
+    "Litecoin": 4.7
+  },
+  {
+    "Week": "2018-04-15",
+    "Bitcoin": 94.6,
+    "Ripple": 5.6,
+    "Blockchain": 6.4,
+    "Ethereum": 12.4,
+    "Litecoin": 4.7
+  },
+  {
+    "Week": "2018-04-22",
+    "Bitcoin": 96.4,
+    "Ripple": 5.5,
+    "Blockchain": 6.4,
+    "Ethereum": 12.4,
+    "Litecoin": 4.8
+  },
+  {
+    "Week": "2018-04-29",
+    "Bitcoin": 95.3,
+    "Ripple": 4.5,
+    "Blockchain": 6.8,
+    "Ethereum": 12.6,
+    "Litecoin": 5.6
+  },
+  {
+    "Week": "2018-05-06",
+    "Bitcoin": 95.3,
+    "Ripple": 4,
+    "Blockchain": 6.7,
+    "Ethereum": 12.5,
+    "Litecoin": 4.5
+  },
+  {
+    "Week": "2018-05-13",
+    "Bitcoin": 94.9,
+    "Ripple": 4.3,
+    "Blockchain": 6.1,
+    "Ethereum": 12.7,
+    "Litecoin": 4.5
+  },
+  {
+    "Week": "2018-05-20",
+    "Bitcoin": 94.8,
+    "Ripple": 4.3,
+    "Blockchain": 6.5,
+    "Ethereum": 13.1,
+    "Litecoin": 4.5
+  },
+  {
+    "Week": "2018-05-27",
+    "Bitcoin": 94.5,
+    "Ripple": 3.8,
+    "Blockchain": 6.6,
+    "Ethereum": 14.1,
+    "Litecoin": 4.4
+  },
+  {
+    "Week": "2018-06-03",
+    "Bitcoin": 96.4,
+    "Ripple": 3.9,
+    "Blockchain": 7,
+    "Ethereum": 13.9,
+    "Litecoin": 4.5
+  },
+  {
+    "Week": "2018-06-10",
+    "Bitcoin": 95.3,
+    "Ripple": 4.1,
+    "Blockchain": 7.2,
+    "Ethereum": 13.3,
+    "Litecoin": 4.5
+  },
+  {
+    "Week": "2018-06-17",
+    "Bitcoin": 94.7,
+    "Ripple": 4.5,
+    "Blockchain": 7,
+    "Ethereum": 11.3,
+    "Litecoin": 4.3
+  },
+  {
+    "Week": "2018-06-24",
+    "Bitcoin": 93.6,
+    "Ripple": 4.4,
+    "Blockchain": 7,
+    "Ethereum": 11.6,
+    "Litecoin": 4.4
+  },
+  {
+    "Week": "2018-07-01",
+    "Bitcoin": 93.5,
+    "Ripple": 4.1,
+    "Blockchain": 6.8,
+    "Ethereum": 11,
+    "Litecoin": 4.3
+  },
+  {
+    "Week": "2018-07-08",
+    "Bitcoin": 94,
+    "Ripple": 4.2,
+    "Blockchain": 6.4,
+    "Ethereum": 12.4,
+    "Litecoin": 4.3
+  },
+  {
+    "Week": "2018-07-15",
+    "Bitcoin": 92.9,
+    "Ripple": 4.4,
+    "Blockchain": 6.6,
+    "Ethereum": 12.6,
+    "Litecoin": 5.2
+  },
+  {
+    "Week": "2018-07-22",
+    "Bitcoin": 93.9,
+    "Ripple": 4.3,
+    "Blockchain": 6.5,
+    "Ethereum": 12.2,
+    "Litecoin": 4.2
+  },
+  {
+    "Week": "2018-07-29",
+    "Bitcoin": 93.4,
+    "Ripple": 3.7,
+    "Blockchain": 6.7,
+    "Ethereum": 10.2,
+    "Litecoin": 3.3
+  },
+  {
+    "Week": "2018-08-05",
+    "Bitcoin": 92.3,
+    "Ripple": 4.9,
+    "Blockchain": 7.4,
+    "Ethereum": 14.4,
+    "Litecoin": 4.3
+  },
+  {
+    "Week": "2018-08-12",
+    "Bitcoin": 93,
+    "Ripple": 4.5,
+    "Blockchain": 6.9,
+    "Ethereum": 13.4,
+    "Litecoin": 4.2
+  },
+  {
+    "Week": "2018-08-19",
+    "Bitcoin": 92.2,
+    "Ripple": 6.1,
+    "Blockchain": 7.4,
+    "Ethereum": 11.5,
+    "Litecoin": 3.6
+  },
+  {
+    "Week": "2018-08-26",
+    "Bitcoin": 93.5,
+    "Ripple": 5.5,
+    "Blockchain": 6.3,
+    "Ethereum": 11.5,
+    "Litecoin": 3.5
+  },
+  {
+    "Week": "2018-09-02",
+    "Bitcoin": 92.5,
+    "Ripple": 4.3,
+    "Blockchain": 7.4,
+    "Ethereum": 9.6,
+    "Litecoin": 4.2
+  },
+  {
+    "Week": "2018-09-09",
+    "Bitcoin": 92.4,
+    "Ripple": 4.5,
+    "Blockchain": 7.5,
+    "Ethereum": 15,
+    "Litecoin": 4
+  },
+  {
+    "Week": "2018-09-16",
+    "Bitcoin": 92,
+    "Ripple": 4.1,
+    "Blockchain": 8.2,
+    "Ethereum": 11.7,
+    "Litecoin": 4.1
+  },
+  {
+    "Week": "2018-09-23",
+    "Bitcoin": 94.2,
+    "Ripple": 6.2,
+    "Blockchain": 7.7,
+    "Ethereum": 11.2,
+    "Litecoin": 4.1
+  },
+  {
+    "Week": "2018-09-30",
+    "Bitcoin": 93.1,
+    "Ripple": 4.4,
+    "Blockchain": 7.1,
+    "Ethereum": 11.3,
+    "Litecoin": 5.1
+  },
+  {
+    "Week": "2018-10-07",
+    "Bitcoin": 93.3,
+    "Ripple": 4.3,
+    "Blockchain": 7,
+    "Ethereum": 11.2,
+    "Litecoin": 4.5
+  },
+  {
+    "Week": "2018-10-14",
+    "Bitcoin": 92.9,
+    "Ripple": 4.1,
+    "Blockchain": 7.2,
+    "Ethereum": 11.3,
+    "Litecoin": 4.5
+  },
+  {
+    "Week": "2018-10-21",
+    "Bitcoin": 94.4,
+    "Ripple": 4,
+    "Blockchain": 7.7,
+    "Ethereum": 11.2,
+    "Litecoin": 4
+  },
+  {
+    "Week": "2018-10-28",
+    "Bitcoin": 93,
+    "Ripple": 4.2,
+    "Blockchain": 7.8,
+    "Ethereum": 11.4,
+    "Litecoin": 3.9
+  },
+  {
+    "Week": "2018-11-04",
+    "Bitcoin": 93.6,
+    "Ripple": 4.3,
+    "Blockchain": 7.7,
+    "Ethereum": 11.3,
+    "Litecoin": 3.9
+  },
+  {
+    "Week": "2018-11-11",
+    "Bitcoin": 93.6,
+    "Ripple": 4.3,
+    "Blockchain": 7.6,
+    "Ethereum": 12.4,
+    "Litecoin": 3.8
+  },
+  {
+    "Week": "2018-11-18",
+    "Bitcoin": 95.1,
+    "Ripple": 4,
+    "Blockchain": 7.6,
+    "Ethereum": 13.7,
+    "Litecoin": 3.8
+  },
+  {
+    "Week": "2018-11-25",
+    "Bitcoin": 94.3,
+    "Ripple": 4.2,
+    "Blockchain": 7.9,
+    "Ethereum": 13.3,
+    "Litecoin": 3.7
   }
 ]

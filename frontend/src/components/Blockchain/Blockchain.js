@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend} from 'recharts';
+import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ReferenceLine} from 'recharts';
 import blockchainData from './blockchain.json'
 import './Blockchain.css'
 
@@ -18,6 +18,7 @@ class Blockchain extends Component {
                 margin={{top: 20, right: 30, left: 20, bottom: 20}}>
              <XAxis dataKey="Week"/>
              <YAxis yAxisId="blockchain" />
+             <ReferenceLine x="2017-12-03" stroke="red" label="today" />
              <CartesianGrid strokeDasharray="3 3"/>
              <Tooltip/>
              <Legend />

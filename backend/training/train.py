@@ -151,13 +151,13 @@ def plot_forecasts(series, forecasts, n_test):
 	pyplot.show()
 
 def main():
-	series = read_csv('../data/google-trends/deep_learning.csv', header=0, parse_dates=[0], index_col=0, squeeze=True, date_parser=parser)
-	n_lag = 1
+	series = read_csv('./main.csv', header=0, parse_dates=[0], index_col=0, squeeze=True, date_parser=parser)
+	n_lag = 0
 	n_seq = 52
 	n_test = 1
-	n_epochs = 100
+	n_epochs = 500
 	n_batch = 1
-	n_neurons = 200
+	n_neurons = 300
 	# prepare data
 	scaler, train, test = prepare_data(series, n_test, n_lag, n_seq)
 	# fit model
@@ -166,6 +166,7 @@ def main():
 	forecasts = make_forecasts(model, n_batch, train, test, n_lag, n_seq)
 	# inverse transform forecasts and test
 	forecasts = inverse_transform(series, forecasts, scaler, n_test)
+	print(forecasts)
 	actual = [row[n_lag:] for row in test]
 	actual = inverse_transform(series, actual, scaler, n_test)
 	# evaluate forecasts
