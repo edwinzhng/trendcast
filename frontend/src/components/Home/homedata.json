@@ -1,0 +1,522 @@
+[
+  {
+    "Week": "2015-12-06",
+    "Artificial Intelligence": 41,
+    "Blockchain": 7
+  },
+  {
+    "Week": "2015-12-13",
+    "Artificial Intelligence": 41,
+    "Blockchain": 7
+  },
+  {
+    "Week": "2015-12-20",
+    "Artificial Intelligence": 39,
+    "Blockchain": 6
+  },
+  {
+    "Week": "2015-12-27",
+    "Artificial Intelligence": 37,
+    "Blockchain": 6
+  },
+  {
+    "Week": "2016-01-03",
+    "Artificial Intelligence": 43,
+    "Blockchain": 6
+  },
+  {
+    "Week": "2016-01-10",
+    "Artificial Intelligence": 39,
+    "Blockchain": 6
+  },
+  {
+    "Week": "2016-01-17",
+    "Artificial Intelligence": 41,
+    "Blockchain": 7
+  },
+  {
+    "Week": "2016-01-24",
+    "Artificial Intelligence": 42,
+    "Blockchain": 8
+  },
+  {
+    "Week": "2016-01-31",
+    "Artificial Intelligence": 39,
+    "Blockchain": 7
+  },
+  {
+    "Week": "2016-02-07",
+    "Artificial Intelligence": 38,
+    "Blockchain": 7
+  },
+  {
+    "Week": "2016-02-14",
+    "Artificial Intelligence": 39,
+    "Blockchain": 8
+  },
+  {
+    "Week": "2016-02-21",
+    "Artificial Intelligence": 40,
+    "Blockchain": 8
+  },
+  {
+    "Week": "2016-02-28",
+    "Artificial Intelligence": 39,
+    "Blockchain": 8
+  },
+  {
+    "Week": "2016-03-06",
+    "Artificial Intelligence": 50,
+    "Blockchain": 8
+  },
+  {
+    "Week": "2016-03-13",
+    "Artificial Intelligence": 52,
+    "Blockchain": 8
+  },
+  {
+    "Week": "2016-03-20",
+    "Artificial Intelligence": 68,
+    "Blockchain": 8
+  },
+  {
+    "Week": "2016-03-27",
+    "Artificial Intelligence": 58,
+    "Blockchain": 8
+  },
+  {
+    "Week": "2016-04-03",
+    "Artificial Intelligence": 48,
+    "Blockchain": 9
+  },
+  {
+    "Week": "2016-04-10",
+    "Artificial Intelligence": 46,
+    "Blockchain": 9
+  },
+  {
+    "Week": "2016-04-17",
+    "Artificial Intelligence": 44,
+    "Blockchain": 9
+  },
+  {
+    "Week": "2016-04-24",
+    "Artificial Intelligence": 45,
+    "Blockchain": 9
+  },
+  {
+    "Week": "2016-05-01",
+    "Artificial Intelligence": 45,
+    "Blockchain": 11
+  },
+  {
+    "Week": "2016-05-08",
+    "Artificial Intelligence": 46,
+    "Blockchain": 11
+  },
+  {
+    "Week": "2016-05-15",
+    "Artificial Intelligence": 50,
+    "Blockchain": 10
+  },
+  {
+    "Week": "2016-05-22",
+    "Artificial Intelligence": 46,
+    "Blockchain": 10
+  },
+  {
+    "Week": "2016-05-29",
+    "Artificial Intelligence": 48,
+    "Blockchain": 11
+  },
+  {
+    "Week": "2016-06-05",
+    "Artificial Intelligence": 49,
+    "Blockchain": 11
+  },
+  {
+    "Week": "2016-06-12",
+    "Artificial Intelligence": 45,
+    "Blockchain": 12
+  },
+  {
+    "Week": "2016-06-19",
+    "Artificial Intelligence": 43,
+    "Blockchain": 12
+  },
+  {
+    "Week": "2016-06-26",
+    "Artificial Intelligence": 43,
+    "Blockchain": 10
+  },
+  {
+    "Week": "2016-07-03",
+    "Artificial Intelligence": 40,
+    "Blockchain": 10
+  },
+  {
+    "Week": "2016-07-10",
+    "Artificial Intelligence": 37,
+    "Blockchain": 10
+  },
+  {
+    "Week": "2016-07-17",
+    "Artificial Intelligence": 38,
+    "Blockchain": 10
+  },
+  {
+    "Week": "2016-07-24",
+    "Artificial Intelligence": 38,
+    "Blockchain": 10
+  },
+  {
+    "Week": "2016-07-31",
+    "Artificial Intelligence": 37,
+    "Blockchain": 9
+  },
+  {
+    "Week": "2016-08-07",
+    "Artificial Intelligence": 36,
+    "Blockchain": 9
+  },
+  {
+    "Week": "2016-08-14",
+    "Artificial Intelligence": 35,
+    "Blockchain": 9
+  },
+  {
+    "Week": "2016-08-21",
+    "Artificial Intelligence": 38,
+    "Blockchain": 11
+  },
+  {
+    "Week": "2016-08-28",
+    "Artificial Intelligence": 40,
+    "Blockchain": 11
+  },
+  {
+    "Week": "2016-09-04",
+    "Artificial Intelligence": 41,
+    "Blockchain": 11
+  },
+  {
+    "Week": "2016-09-11",
+    "Artificial Intelligence": 42,
+    "Blockchain": 11
+  },
+  {
+    "Week": "2016-09-18",
+    "Artificial Intelligence": 44,
+    "Blockchain": 12
+  },
+  {
+    "Week": "2016-09-25",
+    "Artificial Intelligence": 49,
+    "Blockchain": 12
+  },
+  {
+    "Week": "2016-10-02",
+    "Artificial Intelligence": 50,
+    "Blockchain": 12
+  },
+  {
+    "Week": "2016-10-09",
+    "Artificial Intelligence": 51,
+    "Blockchain": 14
+  },
+  {
+    "Week": "2016-10-16",
+    "Artificial Intelligence": 51,
+    "Blockchain": 13
+  },
+  {
+    "Week": "2016-10-23",
+    "Artificial Intelligence": 52,
+    "Blockchain": 14
+  },
+  {
+    "Week": "2016-10-30",
+    "Artificial Intelligence": 54,
+    "Blockchain": 14
+  },
+  {
+    "Week": "2016-11-06",
+    "Artificial Intelligence": 51,
+    "Blockchain": 14
+  },
+  {
+    "Week": "2016-11-13",
+    "Artificial Intelligence": 56,
+    "Blockchain": 15
+  },
+  {
+    "Week": "2016-11-20",
+    "Artificial Intelligence": 54,
+    "Blockchain": 15
+  },
+  {
+    "Week": "2016-11-27",
+    "Artificial Intelligence": 55,
+    "Blockchain": 15
+  },
+  {
+    "Week": "2016-12-04",
+    "Artificial Intelligence": 56,
+    "Blockchain": 15
+  },
+  {
+    "Week": "2016-12-11",
+    "Artificial Intelligence": 53,
+    "Blockchain": 14
+  },
+  {
+    "Week": "2016-12-18",
+    "Artificial Intelligence": 55,
+    "Blockchain": 13
+  },
+  {
+    "Week": "2016-12-25",
+    "Artificial Intelligence": 47,
+    "Blockchain": 11
+  },
+  {
+    "Week": "2017-01-01",
+    "Artificial Intelligence": 55,
+    "Blockchain": 15
+  },
+  {
+    "Week": "2017-01-08",
+    "Artificial Intelligence": 57,
+    "Blockchain": 16
+  },
+  {
+    "Week": "2017-01-15",
+    "Artificial Intelligence": 54,
+    "Blockchain": 15
+  },
+  {
+    "Week": "2017-01-22",
+    "Artificial Intelligence": 53,
+    "Blockchain": 16
+  },
+  {
+    "Week": "2017-01-29",
+    "Artificial Intelligence": 55,
+    "Blockchain": 15
+  },
+  {
+    "Week": "2017-02-05",
+    "Artificial Intelligence": 56,
+    "Blockchain": 17
+  },
+  {
+    "Week": "2017-02-12",
+    "Artificial Intelligence": 56,
+    "Blockchain": 16
+  },
+  {
+    "Week": "2017-02-19",
+    "Artificial Intelligence": 58,
+    "Blockchain": 17
+  },
+  {
+    "Week": "2017-02-26",
+    "Artificial Intelligence": 57,
+    "Blockchain": 19
+  },
+  {
+    "Week": "2017-03-05",
+    "Artificial Intelligence": 58,
+    "Blockchain": 19
+  },
+  {
+    "Week": "2017-03-12",
+    "Artificial Intelligence": 58,
+    "Blockchain": 18
+  },
+  {
+    "Week": "2017-03-19",
+    "Artificial Intelligence": 57,
+    "Blockchain": 19
+  },
+  {
+    "Week": "2017-03-26",
+    "Artificial Intelligence": 62,
+    "Blockchain": 18
+  },
+  {
+    "Week": "2017-04-02",
+    "Artificial Intelligence": 60,
+    "Blockchain": 18
+  },
+  {
+    "Week": "2017-04-09",
+    "Artificial Intelligence": 59,
+    "Blockchain": 17
+  },
+  {
+    "Week": "2017-04-16",
+    "Artificial Intelligence": 60,
+    "Blockchain": 18
+  },
+  {
+    "Week": "2017-04-23",
+    "Artificial Intelligence": 61,
+    "Blockchain": 19
+  },
+  {
+    "Week": "2017-04-30",
+    "Artificial Intelligence": 58,
+    "Blockchain": 21
+  },
+  {
+    "Week": "2017-05-07",
+    "Artificial Intelligence": 61,
+    "Blockchain": 24
+  },
+  {
+    "Week": "2017-05-14",
+    "Artificial Intelligence": 63,
+    "Blockchain": 25
+  },
+  {
+    "Week": "2017-05-21",
+    "Artificial Intelligence": 66,
+    "Blockchain": 31
+  },
+  {
+    "Week": "2017-05-28",
+    "Artificial Intelligence": 60,
+    "Blockchain": 27
+  },
+  {
+    "Week": "2017-06-04",
+    "Artificial Intelligence": 57,
+    "Blockchain": 29
+  },
+  {
+    "Week": "2017-06-11",
+    "Artificial Intelligence": 59,
+    "Blockchain": 31
+  },
+  {
+    "Week": "2017-06-18",
+    "Artificial Intelligence": 60,
+    "Blockchain": 32
+  },
+  {
+    "Week": "2017-06-25",
+    "Artificial Intelligence": 64,
+    "Blockchain": 30
+  },
+  {
+    "Week": "2017-07-02",
+    "Artificial Intelligence": 57,
+    "Blockchain": 26
+  },
+  {
+    "Week": "2017-07-09",
+    "Artificial Intelligence": 60,
+    "Blockchain": 27
+  },
+  {
+    "Week": "2017-07-16",
+    "Artificial Intelligence": 64,
+    "Blockchain": 27
+  },
+  {
+    "Week": "2017-07-23",
+    "Artificial Intelligence": 67,
+    "Blockchain": 27
+  },
+  {
+    "Week": "2017-07-30",
+    "Artificial Intelligence": 100,
+    "Blockchain": 28
+  },
+  {
+    "Week": "2017-08-06",
+    "Artificial Intelligence": 68,
+    "Blockchain": 29
+  },
+  {
+    "Week": "2017-08-13",
+    "Artificial Intelligence": 66,
+    "Blockchain": 34
+  },
+  {
+    "Week": "2017-08-20",
+    "Artificial Intelligence": 65,
+    "Blockchain": 36
+  },
+  {
+    "Week": "2017-08-27",
+    "Artificial Intelligence": 63,
+    "Blockchain": 37
+  },
+  {
+    "Week": "2017-09-03",
+    "Artificial Intelligence": 72,
+    "Blockchain": 36
+  },
+  {
+    "Week": "2017-09-10",
+    "Artificial Intelligence": 70,
+    "Blockchain": 37
+  },
+  {
+    "Week": "2017-09-17",
+    "Artificial Intelligence": 69,
+    "Blockchain": 37
+  },
+  {
+    "Week": "2017-09-24",
+    "Artificial Intelligence": 69,
+    "Blockchain": 35
+  },
+  {
+    "Week": "2017-10-01",
+    "Artificial Intelligence": 70,
+    "Blockchain": 37
+  },
+  {
+    "Week": "2017-10-08",
+    "Artificial Intelligence": 73,
+    "Blockchain": 43
+  },
+  {
+    "Week": "2017-10-15",
+    "Artificial Intelligence": 75,
+    "Blockchain": 47
+  },
+  {
+    "Week": "2017-10-22",
+    "Artificial Intelligence": 86,
+    "Blockchain": 48
+  },
+  {
+    "Week": "2017-10-29",
+    "Artificial Intelligence": 83,
+    "Blockchain": 51
+  },
+  {
+    "Week": "2017-11-05",
+    "Artificial Intelligence": 89,
+    "Blockchain": 55
+  },
+  {
+    "Week": "2017-11-12",
+    "Artificial Intelligence": 86,
+    "Blockchain": 54
+  },
+  {
+    "Week": "2017-11-19",
+    "Artificial Intelligence": 81,
+    "Blockchain": 55
+  },
+  {
+    "Week": "2017-11-26",
+    "Artificial Intelligence": 89,
+    "Blockchain": 77
+  }
+]

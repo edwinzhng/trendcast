@@ -5,29 +5,14 @@ import { Popup, Divider } from 'semantic-ui-react';
 import Header from '../Header/Header.js';
 import './Home.css';
 import {Link} from 'react-router-dom'
+import data from './homedata.json'
 
-const data = [
-      {time: '1', blockchain: 4000, bitcoin: 2400, ethereum: 2400},
-      {time: '2', blockchain: 3000, bitcoin: 1398, ethereum: 2210},
-      {time: '3', blockchain: 2000, bitcoin: 9800, ethereum: 2290},
-      {time: '4', blockchain: 2780, bitcoin: 3908, ethereum: 2000},
-      {time: '5', blockchain: 1890, bitcoin: 4800, ethereum: 2181},
-      {time: '6', blockchain: 2390, bitcoin: 3800, ethereum: 2500},
-      {time: '7', blockchain: 3490, bitcoin: 4300, ethereum: 2100},
-      {time: '8', blockchain: 4000, bitcoin: 2400, ethereum: 2400},
-      {time: '9', blockchain: 3000, bitcoin: 1398, ethereum: 2210},
-      {time: '10', blockchain: 2000, bitcoin: 9800, ethereum: 2290},
-      {time: '11', blockchain: 2780, bitcoin: 3908, ethereum: 2000},
-      {time: '12', blockchain: 1890, bitcoin: 4800, ethereum: 2181},
-      {time: '13', blockchain: 2390, bitcoin: 3800, ethereum: 2500},
-      {time: '14', blockchain: 3490, bitcoin: 4300, ethereum: 2100},
-];
-const data01 = [{name: 'Group A', value: 400}, {name: 'Group B', value: 300},
-                  {name: 'Group C', value: 300}, {name: 'Group D', value: 200}];
-const data02 = [{name: 'Group A', value: 2400}, {name: 'Group B', value: 4567},
-                  {name: 'Group C', value: 1398}, {name: 'Group D', value: 9800},
-                  {name: 'Group E', value: 3908}, {name: 'Group F', value: 4800}]; 
-              
+const data01 = [{name: 'Deep learning', value: 400}, {name: 'Machine Learning', value: 300},
+                  {name: 'Natural Language Processing', value: 300}, {name: 'Computer Vision', value: 200}];
+const data02 = [{name: 'Ripple', value: 0.17}, {name: 'Ethereum', value: 0.23},
+                  {name: 'Litecoin', value: 0.15}, {name: 'Bitcoin', value: 0.44},
+                  {name: 'Bitcoin Cash', value: 0.21}];
+
 console.log(data02[0]["value"]  );
 class Home extends Component {
   render () {
@@ -74,13 +59,13 @@ class Home extends Component {
            <Row>
           <Col xs="6" className = "aitrending" >  <Link to="/artificial-intelligence" className="chartlinks">AI</Link>
           <PieChart width={400} height={400} className="piegraph">
-          <Pie isAnimationActive={false} data={data01} cx={200} cy={200} outerRadius={130} fill="#56ab2f" label/> 
+          <Pie isAnimationActive={false} data={data01} cx={200} cy={200} outerRadius={130} fill="#56ab2f" label/>
           <Tooltip/>
           </PieChart>
           </Col>
           <Col xs="6"><Link to="/blockchain" className="chartlinks2">Blockchain</Link>
           <PieChart width={400} height={400} className="piegraph">
-          <Pie isAnimationActive={false} data={data02} cx={200} cy={200} outerRadius={130} fill="#1e90ff" label/> 
+          <Pie isAnimationActive={false} data={data02} cx={200} cy={200} outerRadius={130} fill="#1e90ff" label/>
           <Tooltip/>
           </PieChart>
           </Col>
@@ -89,14 +74,13 @@ class Home extends Component {
         <div className="home-content">
           <LineChart width={1040} height={500} data={data}
                 margin={{top: 35, right: 30, left: 20, bottom: 10}}>
-             <XAxis dataKey="time"/>
+             <XAxis dataKey="Week"/>
              <YAxis yAxisId="left" />
-             <YAxis yAxisId="right" orientation="right" />
              <CartesianGrid strokeDasharray="3 3"/>
              <Tooltip/>
              <Legend />
-             <Line yAxisId="left" type="monotone" dataKey="blockchain" stroke="#8884d8" activeDot={{r: 5}}/>
-             <Line yAxisId="right" type="monotone" dataKey="bitcoin" stroke="#82ca9d" />
+             <Line yAxisId="left" type="monotone" dataKey="Blockchain" stroke="#1e90ff"/>
+             <Line yAxisId="left" type="monotone" dataKey="Artificial Intelligence" stroke="#56ab2f" />
           </LineChart>
         </div>
       </div>

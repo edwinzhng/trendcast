@@ -131,7 +131,6 @@ def inverse_transform(series, forecasts, scaler, n_test):
 		inverted.append(inv_diff)
 	return inverted
 
-# evaluate the RMSE for each forecast time step
 def evaluate_forecasts(test, forecasts, n_lag, n_seq):
 	for i in range(n_seq):
 		actual = [row[i] for row in test]
@@ -139,40 +138,40 @@ def evaluate_forecasts(test, forecasts, n_lag, n_seq):
 		rmse = sqrt(mean_squared_error(actual, predicted))
 		print('t+%d RMSE: %f' % ((i+1), rmse))
 
-# plot the forecasts in the context of the original dataset
 def plot_forecasts(series, forecasts, n_test):
-	# plot the entire dataset in blue
+	# original dataset plotted blue
 	pyplot.plot(series.values)
-	# plot the forecasts in red
+	# plot forecasts in red
 	for i in range(len(forecasts)):
 		off_s = len(series) - n_test + i - 1
 		off_e = off_s + len(forecasts[i]) + 1
 		xaxis = [x for x in range(off_s, off_e)]
 		yaxis = [series.values[off_s]] + forecasts[i]
 		pyplot.plot(xaxis, yaxis, color='red')
-	# show the plot
 	pyplot.show()
 
-# load dataset
-series = read_csv('../data/google-trends/google_blockchain.csv', header=0, parse_dates=[0], index_col=0, squeeze=True, date_parser=parser)
-# configure
-n_lag = 1
-n_seq = 100
-n_test = 10
-n_epochs = 100
-n_batch = 1
-n_neurons = 200
-# prepare data
-scaler, train, test = prepare_data(series, n_test, n_lag, n_seq)
-# fit model
-model = fit_lstm(train, n_lag, n_seq, n_batch, n_epochs, n_neurons)
-# make forecasts
-forecasts = make_forecasts(model, n_batch, train, test, n_lag, n_seq)
-# inverse transform forecasts and test
-forecasts = inverse_transform(series, forecasts, scaler, n_test)
-actual = [row[n_lag:] for row in test]
-actual = inverse_transform(series, actual, scaler, n_test)
-# evaluate forecasts
-evaluate_forecasts(actual, forecasts, n_lag, n_seq)
-# plot forecasts
-plot_forecasts(series, forecasts, n_test)
+def main():
+	series = read_csv('../data/google-trends/deep_learning.csv', header=0, parse_dates=[0], index_col=0, squeeze=True, date_parser=parser)
+	n_lag = 1
+	n_seq = 52
+	n_test = 1
+	n_epochs = 100
+	n_batch = 1
+	n_neurons = 200
+	# prepare data
+	scaler, train, test = prepare_data(series, n_test, n_lag, n_seq)
+	# fit model
+	model = fit_lstm(train, n_lag, n_seq, n_batch, n_epochs, n_neurons)
+	# make forecasts
+	forecasts = make_forecasts(model, n_batch, train, test, n_lag, n_seq)
+	# inverse transform forecasts and test
+	forecasts = inverse_transform(series, forecasts, scaler, n_test)
+	actual = [row[n_lag:] for row in test]
+	actual = inverse_transform(series, actual, scaler, n_test)
+	# evaluate forecasts
+	evaluate_forecasts(actual, forecasts, n_lag, n_seq)
+	# plot forecasts
+	plot_forecasts(series, forecasts, n_test)
+
+if __name__ == '__main__':
+	main()
