@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import  {LineChart, Line, XAxis, YAxis, PieChart, Pie, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar} from 'recharts';
-import { Container, Row, Col } from 'reactstrap';
+import  {LineChart, Line, XAxis, YAxis, PieChart, Pie, CartesianGrid, Tooltip, Legend} from 'recharts';
+import { Row, Col } from 'reactstrap';
 import { Popup, Divider } from 'semantic-ui-react';
 import Header from '../Header/Header.js';
 import './Home.css';
