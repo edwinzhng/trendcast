@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar} from 'recharts';
 import { Container, Row, Col } from 'reactstrap';
-import Header from '../Header/Header.js'
-import './Home.css'
+import { Popup, Divider } from 'semantic-ui-react';
+import Header from '../Header/Header.js';
+import './Home.css';
 
 const data = [
       {time: '1', blockchain: 4000, bitcoin: 2400, ethereum: 2400},
@@ -28,19 +29,42 @@ class Home extends Component {
         <Header />
         <div className="algorithm">
         <h1> Our Algorithm </h1>
-        <Container>
+        <p className="algorithm-text">
+          Trendcast scrapes historical data from Google Trends, performs sentiment analysis of
+          articles from major tech news sources over the past five years and uses machine learning to predict
+          future trends through LSTM networks.
+        </p>
         <Row className = "columns">
-          <Col xs="6" sm="4">Google Trends</Col>
-          <Col xs="6" sm="4" className = "middle">Sentiment Analysis</Col>
-
-          <Col sm="4">Machine Learning</Col>
+          <Col xs="6" sm="4">
+            <Popup
+              className = 'popup'
+              trigger = { <div><span>Google Trends</span><i class="fa fa-line-chart" color="teal" aria-hidden="true"></i></div> }
+              position = 'bottom center'
+              content = 'Predicting relative popularity of technologies using Google Trends data.'
+            />
+          </Col>
+          <Col xs="6" sm="4" className = "middle">
+            <Popup
+              className = 'popup'
+              trigger = { <div><span>Sentiment Analysis</span><i class="fa fa-smile-o" aria-hidden="true"></i></div> }
+              position = 'bottom center'
+              content = 'Analyzing sentiment of news articles from major tech news sources.'
+            />
+          </Col>
+          <Col xs="6" sm="4">
+            <Popup
+              className = 'popup'
+              trigger = { <div><span>Machine Learning</span><i class="fa fa-cogs" aria-hidden="true"></i></div> }
+              position = 'bottom center'
+              content = 'Using LSTM networks to generate a multi-step time series prediction.'
+            />
+          </Col>
         </Row>
-        </Container>
         </div>
-        
+        <Divider />
         <div className="home-content">
         	<LineChart width={1040} height={500} data={data}
-                margin={{top: 5, right: 30, left: 20, bottom: 10}}>
+                margin={{top: 35, right: 30, left: 20, bottom: 10}}>
              <XAxis dataKey="time"/>
              <YAxis yAxisId="left" />
              <YAxis yAxisId="right" orientation="right" />
