@@ -15,7 +15,7 @@ def reformat():
             writer.writerow(row)
 
 def countKey():
-    with open('./data/websites/Edited/Block_chain_timeOrdered.csv', 'rb') as f_in, open("./data/websites/Edited/block_chainFinal.csv", "wb") as f_out:
+    with open('./data/websites/Edited/CryptoCurrencies/bitcoin.csv', 'rb') as f_in, open("./data/websites/Edited/bitcoinFinal.csv", "wb") as f_out:
         reader = csv.reader(f_in, delimiter=",")
         writer = csv.writer(f_out, delimiter=",")
         sumValue = 0
@@ -23,7 +23,7 @@ def countKey():
         weeklyCount =0
         for row in reader:
             date= row[0];
-            year,month,day = date.split("/")
+            year,month,day = date.split("-")
             week = datetime.date(int(year), int(month),int( day)).strftime("%V")
             #print(week)
             if week == Preweek:
@@ -53,8 +53,8 @@ def averageWeek():
             value = int (row[3])
             if value>=max:
                 max=value
-                print("hello")
-        print(max)
+                #print("hello")
+        #print(max)
     with open('./data/websites/Edited/block_chainFinal.csv', 'rb1') as f_in1, open("./data/websites/Edited/block_chainFinal2.csv", "wb1") as f_out1:
         reader1 = csv.reader(f_in1, delimiter=",")
         writer1 = csv.writer(f_out1, delimiter=",")
