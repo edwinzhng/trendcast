@@ -63,6 +63,27 @@
 	border-right: 1px solid rgba(34,36,38,.15);
 }
 .piegraph{
+	margin-top: 30px !important;
 	text-align:center;
 	margin: auto;
+}
+.chartlinks{
+	text-align:center;
+	margin: auto;
+	color: #333;
+	font-size: 150%;
+}
+.chartlinks:hover{
+	text-decoration: none;
+	color: #56ab2f;
+}
+.chartlinks2{
+	text-align:center;
+	margin: auto;
+	color: #333;
+	font-size: 150%;
+}
+.chartlinks2:hover{
+	text-decoration: none;
+	color: #1e90ff;
 }

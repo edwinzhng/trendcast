@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
 import  {LineChart, Line, XAxis, YAxis, PieChart, Pie, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar} from 'recharts';
-import { Row, Col } from 'reactstrap';
+import { Container, Row, Col } from 'reactstrap';
 import { Popup, Divider } from 'semantic-ui-react';
 import Header from '../Header/Header.js';
 import './Home.css';
+import {Link} from 'react-router-dom'
 
 const data = [
       {time: '1', blockchain: 4000, bitcoin: 2400, ethereum: 2400},
@@ -25,11 +26,13 @@ const data01 = [{name: 'Group A', value: 400}, {name: 'Group B', value: 300},
                   {name: 'Group C', value: 300}, {name: 'Group D', value: 200}];
 const data02 = [{name: 'Group A', value: 2400}, {name: 'Group B', value: 4567},
                   {name: 'Group C', value: 1398}, {name: 'Group D', value: 9800},
-                  {name: 'Group E', value: 3908}, {name: 'Group F', value: 4800}];
-
+                  {name: 'Group E', value: 3908}, {name: 'Group F', value: 4800}]; 
+              
+console.log(data02[0]["value"]  );
 class Home extends Component {
-	render () {
-  	return (
+  render () {
+    return (
+
       <div className="home">
         <Header />
         <div className="algorithm">
@@ -69,22 +72,22 @@ class Home extends Component {
         <Divider />
         <div className="trending">
            <Row>
-          <Col xs="6" className = "aitrending">AI
+          <Col xs="6" className = "aitrending" >  <Link to="/artificial-intelligence" className="chartlinks">AI</Link>
           <PieChart width={400} height={400} className="piegraph">
-          <Pie isAnimationActive={false} data={data01} cx={200} cy={200} outerRadius={130} fill="#56ab2f" label/>
+          <Pie isAnimationActive={false} data={data01} cx={200} cy={200} outerRadius={130} fill="#56ab2f" label/> 
           <Tooltip/>
           </PieChart>
           </Col>
-          <Col xs="6">Blockchain
+          <Col xs="6"><Link to="/blockchain" className="chartlinks2">Blockchain</Link>
           <PieChart width={400} height={400} className="piegraph">
-          <Pie isAnimationActive={false} data={data02} cx={200} cy={200} outerRadius={130} fill="#1e90ff" label/>
+          <Pie isAnimationActive={false} data={data02} cx={200} cy={200} outerRadius={130} fill="#1e90ff" label/> 
           <Tooltip/>
           </PieChart>
           </Col>
         </Row>
         </div>
         <div className="home-content">
-        	<LineChart width={1040} height={500} data={data}
+          <LineChart width={1040} height={500} data={data}
                 margin={{top: 35, right: 30, left: 20, bottom: 10}}>
              <XAxis dataKey="time"/>
              <YAxis yAxisId="left" />
@@ -95,16 +98,6 @@ class Home extends Component {
              <Line yAxisId="left" type="monotone" dataKey="blockchain" stroke="#8884d8" activeDot={{r: 5}}/>
              <Line yAxisId="right" type="monotone" dataKey="bitcoin" stroke="#82ca9d" />
           </LineChart>
-          <ComposedChart width={1040} height={400} data={data}>
-            <XAxis dataKey="time" />
-            <YAxis />
-            <Tooltip />
-            <Legend />
-            <CartesianGrid stroke="#f5f5f5" />
-            <Area type="monotone" dataKey="ethereum" fill="#8884d8" stroke="#8884d8" />
-            <Bar dataKey="bitcoin" barSize={20} fill="#413ea0" />
-            <Line type="monotone" dataKey="rating" stroke="#ff7300" />
-          </ComposedChart>
         </div>
       </div>
     );
