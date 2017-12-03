@@ -17,12 +17,13 @@ def filter(f_in, f_out, keyword):
     writer = csv.writer(f_out, delimiter=",")
 
     for row in reader:
-            if row[1] in keyword:
+            if (row[1]).lower() in keyword:
+                row[1] = row[1].lower()
                 writer.writerow(row)
             else:
                 continue
 
-def sortByType():
+def groupByType():
     with open('./data/websites/Edited/Artifitial_Intelligence.csv', 'rb') as f_in1, open('./data/websites/Edited/Block_chain.csv', 'rb') as f_in2:
     
         file1 = csv.reader(f_in1, delimiter = ",")
@@ -44,7 +45,7 @@ def remove_lines1():
     with open('./data/websites/verge2.csv', 'rb') as f_in1, open ('./data/websites/ai.csv', 'rb') as f_in2, open ('./data/websites/blockchain.csv', 'rb') as f_in3, open ('./data/websites/cloud.csv', 'rb') as f_in4, open ('./data/websites/engadget.csv', 'rb') as f_in5, open ('./data/websites/iot.csv', 'rb') as f_in6, open ('./data/websites/techcrunch.csv', 'rb') as f_in7, open ('./data/websites/verge.csv', 'rb') as f_in8, open ('./data/websites/wired.csv', 'rb') as f_in9, open ('./data/websites/Edited/Artifitial_Intelligence.csv', 'rb') as f_in10, open ('./data/websites/Edited/Artifitial_Intelligence.csv', 'wb') as f_out1:
 
         #need more keywords
-        keyword_ai = ['ai', 'deep', 'learning', 'intelligence', 'artifitial', 'smart']
+        keyword_ai = ['ai', 'deep', 'learning', 'intelligence', 'artificial', 'smart', 'platforms', 'platform', 'natural', 'language', 'speech', 'recognision', 'biometrics', 'analysis', 'image', 'analytics', 'automation', 'robot', 'robotic', 'optimized', 'virtual', 'management', 'nlp', 'training']
 
         filter(f_in1, f_out1, keyword_ai)
         filter(f_in2, f_out1, keyword_ai)
@@ -80,4 +81,4 @@ if __name__ == '__main__':
     # reformat()
     remove_lines1()
     remove_lines2()
-    sortByType()
+    groupByType()
