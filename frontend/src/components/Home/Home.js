@@ -24,7 +24,7 @@ class Home extends Component {
         <h1> Our Algorithm </h1>
         <p className="algorithm-text">
           Trendcast scrapes historical data from Google Trends, performs sentiment analysis of
-          articles from major tech news sources over the past five years and uses machine learning to predict
+          articles from major tech news sources over the past three years and uses machine learning to predict
           future trends through LSTM networks.
         </p>
         <Row className = "columns">
