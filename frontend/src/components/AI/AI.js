@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar} from 'recharts';
+import  {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend} from 'recharts';
 import './AI.css';
-import aiData from './ai.json'
+import aiData from './ai_trends.json'
 
 class AI extends Component {
 	render () {
@@ -10,31 +10,23 @@ class AI extends Component {
       <div className="aiheader">
         <h1>Artificial Intelligence</h1>
         <p>
-          Insert artifical intelligence text here
+          Predicting the next biggest trends in AI and ML technology
         </p>
       </div>
       <div className="ai">
-      	<LineChart width={1040} height={500} data={aiData}
+      	<LineChart width={1040} height={650} data={aiData}
               margin={{top: 20, right: 30, left: 20, bottom: 20}}>
-           <XAxis dataKey="week"/>
+           <XAxis dataKey="Week"/>
            <YAxis yAxisId="left" />
-           <YAxis yAxisId="right" orientation="right" />
            <CartesianGrid strokeDasharray="3 3"/>
            <Tooltip/>
            <Legend />
-           <Line yAxisId="left" type="monotone" dataKey="Artificial Intelligence" stroke="#8884d8" activeDot={{r: 5}}/>
-           <Line yAxisId="right" type="monotone" dataKey="Machine Learning" stroke="#82ca9d" />
+           <Line yAxisId="left" type="monotone" dataKey="Artificial Intelligence" stroke="#8884d8"/>
+           <Line yAxisId="left" type="monotone" dataKey="Machine Learning" stroke="#82ca9d" />
+					 <Line yAxisId="left" type="monotone" dataKey="Deep Learning" stroke="#78d9e7"/>
+					 <Line yAxisId="left" type="monotone" dataKey="Natural Language Processing" stroke="#e778d9"/>
+					 <Line yAxisId="left" type="monotone" dataKey="Computer Vision" stroke="#8884d8"/>
         </LineChart>
-        <ComposedChart width={1040} height={400} data={aiData}>
-          <XAxis dataKey="time" />
-          <YAxis />
-          <Tooltip />
-          <Legend />
-          <CartesianGrid stroke="#f5f5f5" />
-          <Area type="monotone" dataKey="Artificial Intelligence" fill="#8884d8" stroke="#8884d8" />
-          <Bar dataKey="Machine Learning" barSize={20} fill="#413ea0" />
-          <Line type="monotone" dataKey="Deep Learning" stroke="#ff7300" />
-        </ComposedChart>
       </div>
       </div>
     );

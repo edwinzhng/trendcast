@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import  {LineChart, Line, XAxis, YAxis, PieChart, Pie, CartesianGrid, Tooltip, Legend, ComposedChart, Area, Bar} from 'recharts';
-import { Container, Row, Col } from 'reactstrap';
+import { Row, Col } from 'reactstrap';
 import { Popup, Divider } from 'semantic-ui-react';
 import Header from '../Header/Header.js';
 import './Home.css';
@@ -25,7 +25,7 @@ const data01 = [{name: 'Group A', value: 400}, {name: 'Group B', value: 300},
                   {name: 'Group C', value: 300}, {name: 'Group D', value: 200}];
 const data02 = [{name: 'Group A', value: 2400}, {name: 'Group B', value: 4567},
                   {name: 'Group C', value: 1398}, {name: 'Group D', value: 9800},
-                  {name: 'Group E', value: 3908}, {name: 'Group F', value: 4800}];                  
+                  {name: 'Group E', value: 3908}, {name: 'Group F', value: 4800}];
 
 class Home extends Component {
 	render () {
@@ -71,13 +71,13 @@ class Home extends Component {
            <Row>
           <Col xs="6" className = "aitrending">AI
           <PieChart width={400} height={400} className="piegraph">
-          <Pie isAnimationActive={false} data={data01} cx={200} cy={200} outerRadius={130} fill="#56ab2f" label/> 
+          <Pie isAnimationActive={false} data={data01} cx={200} cy={200} outerRadius={130} fill="#56ab2f" label/>
           <Tooltip/>
           </PieChart>
           </Col>
           <Col xs="6">Blockchain
           <PieChart width={400} height={400} className="piegraph">
-          <Pie isAnimationActive={false} data={data02} cx={200} cy={200} outerRadius={130} fill="#1e90ff" label/> 
+          <Pie isAnimationActive={false} data={data02} cx={200} cy={200} outerRadius={130} fill="#1e90ff" label/>
           <Tooltip/>
           </PieChart>
           </Col>

@@ -4,6 +4,7 @@
   from { width: 0px; }
   to { width: 900px; }
 }
+
 .blockchain {
   align-content: center;
   text-align: center;
@@ -13,9 +14,8 @@
   width: 1040px;
 }
 
-
 .blockheader{
-	height: 400px;
+	height: 350px;
   background: #145acc;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #000046, #1cb5e0);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right,#000046, #1cb5e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -48,7 +48,6 @@
   font-size: 110%;
   width: 900px;
   position: relative;
-  text-align: justify;
+  text-align: center;
   margin: auto;
 }
-

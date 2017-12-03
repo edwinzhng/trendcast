@@ -1,0 +1,834 @@
+[
+  {
+    "Week": "2015-12-06",
+    "Deep Learning": 11,
+    "Artificial Intelligence": 33,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 37
+  },
+  {
+    "Week": "2015-12-13",
+    "Deep Learning": 14,
+    "Artificial Intelligence": 31,
+    "Natural Language Processing": 7,
+    "Computer Vision": 10,
+    "Machine Learning": 37
+  },
+  {
+    "Week": "2015-12-20",
+    "Deep Learning": 10,
+    "Artificial Intelligence": 24,
+    "Natural Language Processing": 5,
+    "Computer Vision": 8,
+    "Machine Learning": 29
+  },
+  {
+    "Week": "2015-12-27",
+    "Deep Learning": 9,
+    "Artificial Intelligence": 23,
+    "Natural Language Processing": 5,
+    "Computer Vision": 7,
+    "Machine Learning": 25
+  },
+  {
+    "Week": "2016-01-03",
+    "Deep Learning": 13,
+    "Artificial Intelligence": 39,
+    "Natural Language Processing": 7,
+    "Computer Vision": 8,
+    "Machine Learning": 32
+  },
+  {
+    "Week": "2016-01-10",
+    "Deep Learning": 12,
+    "Artificial Intelligence": 31,
+    "Natural Language Processing": 7,
+    "Computer Vision": 9,
+    "Machine Learning": 35
+  },
+  {
+    "Week": "2016-01-17",
+    "Deep Learning": 15,
+    "Artificial Intelligence": 28,
+    "Natural Language Processing": 7,
+    "Computer Vision": 9,
+    "Machine Learning": 36
+  },
+  {
+    "Week": "2016-01-24",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 32,
+    "Natural Language Processing": 7,
+    "Computer Vision": 9,
+    "Machine Learning": 38
+  },
+  {
+    "Week": "2016-01-31",
+    "Deep Learning": 15,
+    "Artificial Intelligence": 30,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 36
+  },
+  {
+    "Week": "2016-02-07",
+    "Deep Learning": 14,
+    "Artificial Intelligence": 29,
+    "Natural Language Processing": 7,
+    "Computer Vision": 9,
+    "Machine Learning": 37
+  },
+  {
+    "Week": "2016-02-14",
+    "Deep Learning": 14,
+    "Artificial Intelligence": 30,
+    "Natural Language Processing": 8,
+    "Computer Vision": 9,
+    "Machine Learning": 36
+  },
+  {
+    "Week": "2016-02-21",
+    "Deep Learning": 15,
+    "Artificial Intelligence": 30,
+    "Natural Language Processing": 7,
+    "Computer Vision": 10,
+    "Machine Learning": 37
+  },
+  {
+    "Week": "2016-02-28",
+    "Deep Learning": 14,
+    "Artificial Intelligence": 30,
+    "Natural Language Processing": 8,
+    "Computer Vision": 11,
+    "Machine Learning": 37
+  },
+  {
+    "Week": "2016-03-06",
+    "Deep Learning": 19,
+    "Artificial Intelligence": 34,
+    "Natural Language Processing": 8,
+    "Computer Vision": 11,
+    "Machine Learning": 40
+  },
+  {
+    "Week": "2016-03-13",
+    "Deep Learning": 21,
+    "Artificial Intelligence": 36,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 40
+  },
+  {
+    "Week": "2016-03-20",
+    "Deep Learning": 17,
+    "Artificial Intelligence": 34,
+    "Natural Language Processing": 7,
+    "Computer Vision": 9,
+    "Machine Learning": 38
+  },
+  {
+    "Week": "2016-03-27",
+    "Deep Learning": 17,
+    "Artificial Intelligence": 35,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 40
+  },
+  {
+    "Week": "2016-04-03",
+    "Deep Learning": 19,
+    "Artificial Intelligence": 34,
+    "Natural Language Processing": 9,
+    "Computer Vision": 11,
+    "Machine Learning": 43
+  },
+  {
+    "Week": "2016-04-10",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 30,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 41
+  },
+  {
+    "Week": "2016-04-17",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 32,
+    "Natural Language Processing": 8,
+    "Computer Vision": 11,
+    "Machine Learning": 43
+  },
+  {
+    "Week": "2016-04-24",
+    "Deep Learning": 17,
+    "Artificial Intelligence": 33,
+    "Natural Language Processing": 8,
+    "Computer Vision": 9,
+    "Machine Learning": 39
+  },
+  {
+    "Week": "2016-05-01",
+    "Deep Learning": 15,
+    "Artificial Intelligence": 32,
+    "Natural Language Processing": 7,
+    "Computer Vision": 10,
+    "Machine Learning": 40
+  },
+  {
+    "Week": "2016-05-08",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 31,
+    "Natural Language Processing": 9,
+    "Computer Vision": 8,
+    "Machine Learning": 41
+  },
+  {
+    "Week": "2016-05-15",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 33,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 42
+  },
+  {
+    "Week": "2016-05-22",
+    "Deep Learning": 17,
+    "Artificial Intelligence": 33,
+    "Natural Language Processing": 9,
+    "Computer Vision": 10,
+    "Machine Learning": 44
+  },
+  {
+    "Week": "2016-05-29",
+    "Deep Learning": 17,
+    "Artificial Intelligence": 29,
+    "Natural Language Processing": 7,
+    "Computer Vision": 10,
+    "Machine Learning": 41
+  },
+  {
+    "Week": "2016-06-05",
+    "Deep Learning": 17,
+    "Artificial Intelligence": 31,
+    "Natural Language Processing": 8,
+    "Computer Vision": 9,
+    "Machine Learning": 42
+  },
+  {
+    "Week": "2016-06-12",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 28,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 42
+  },
+  {
+    "Week": "2016-06-19",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 29,
+    "Natural Language Processing": 8,
+    "Computer Vision": 9,
+    "Machine Learning": 42
+  },
+  {
+    "Week": "2016-06-26",
+    "Deep Learning": 19,
+    "Artificial Intelligence": 26,
+    "Natural Language Processing": 9,
+    "Computer Vision": 9,
+    "Machine Learning": 40
+  },
+  {
+    "Week": "2016-07-03",
+    "Deep Learning": 17,
+    "Artificial Intelligence": 25,
+    "Natural Language Processing": 7,
+    "Computer Vision": 8,
+    "Machine Learning": 38
+  },
+  {
+    "Week": "2016-07-10",
+    "Deep Learning": 16,
+    "Artificial Intelligence": 27,
+    "Natural Language Processing": 7,
+    "Computer Vision": 9,
+    "Machine Learning": 38
+  },
+  {
+    "Week": "2016-07-17",
+    "Deep Learning": 17,
+    "Artificial Intelligence": 25,
+    "Natural Language Processing": 7,
+    "Computer Vision": 9,
+    "Machine Learning": 39
+  },
+  {
+    "Week": "2016-07-24",
+    "Deep Learning": 16,
+    "Artificial Intelligence": 24,
+    "Natural Language Processing": 8,
+    "Computer Vision": 9,
+    "Machine Learning": 39
+  },
+  {
+    "Week": "2016-07-31",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 26,
+    "Natural Language Processing": 8,
+    "Computer Vision": 9,
+    "Machine Learning": 42
+  },
+  {
+    "Week": "2016-08-07",
+    "Deep Learning": 16,
+    "Artificial Intelligence": 24,
+    "Natural Language Processing": 7,
+    "Computer Vision": 8,
+    "Machine Learning": 39
+  },
+  {
+    "Week": "2016-08-14",
+    "Deep Learning": 13,
+    "Artificial Intelligence": 23,
+    "Natural Language Processing": 6,
+    "Computer Vision": 7,
+    "Machine Learning": 36
+  },
+  {
+    "Week": "2016-08-21",
+    "Deep Learning": 16,
+    "Artificial Intelligence": 26,
+    "Natural Language Processing": 7,
+    "Computer Vision": 9,
+    "Machine Learning": 45
+  },
+  {
+    "Week": "2016-08-28",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 30,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 43
+  },
+  {
+    "Week": "2016-09-04",
+    "Deep Learning": 18,
+    "Artificial Intelligence": 29,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 43
+  },
+  {
+    "Week": "2016-09-11",
+    "Deep Learning": 19,
+    "Artificial Intelligence": 30,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 47
+  },
+  {
+    "Week": "2016-09-18",
+    "Deep Learning": 20,
+    "Artificial Intelligence": 34,
+    "Natural Language Processing": 9,
+    "Computer Vision": 10,
+    "Machine Learning": 50
+  },
+  {
+    "Week": "2016-09-25",
+    "Deep Learning": 19,
+    "Artificial Intelligence": 35,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 50
+  },
+  {
+    "Week": "2016-10-02",
+    "Deep Learning": 22,
+    "Artificial Intelligence": 35,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 50
+  },
+  {
+    "Week": "2016-10-09",
+    "Deep Learning": 21,
+    "Artificial Intelligence": 39,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 48
+  },
+  {
+    "Week": "2016-10-16",
+    "Deep Learning": 22,
+    "Artificial Intelligence": 36,
+    "Natural Language Processing": 9,
+    "Computer Vision": 10,
+    "Machine Learning": 53
+  },
+  {
+    "Week": "2016-10-23",
+    "Deep Learning": 23,
+    "Artificial Intelligence": 38,
+    "Natural Language Processing": 9,
+    "Computer Vision": 10,
+    "Machine Learning": 55
+  },
+  {
+    "Week": "2016-10-30",
+    "Deep Learning": 23,
+    "Artificial Intelligence": 38,
+    "Natural Language Processing": 10,
+    "Computer Vision": 10,
+    "Machine Learning": 54
+  },
+  {
+    "Week": "2016-11-06",
+    "Deep Learning": 20,
+    "Artificial Intelligence": 37,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 52
+  },
+  {
+    "Week": "2016-11-13",
+    "Deep Learning": 24,
+    "Artificial Intelligence": 40,
+    "Natural Language Processing": 10,
+    "Computer Vision": 12,
+    "Machine Learning": 61
+  },
+  {
+    "Week": "2016-11-20",
+    "Deep Learning": 23,
+    "Artificial Intelligence": 38,
+    "Natural Language Processing": 9,
+    "Computer Vision": 10,
+    "Machine Learning": 56
+  },
+  {
+    "Week": "2016-11-27",
+    "Deep Learning": 25,
+    "Artificial Intelligence": 41,
+    "Natural Language Processing": 10,
+    "Computer Vision": 12,
+    "Machine Learning": 59
+  },
+  {
+    "Week": "2016-12-04",
+    "Deep Learning": 27,
+    "Artificial Intelligence": 43,
+    "Natural Language Processing": 10,
+    "Computer Vision": 12,
+    "Machine Learning": 60
+  },
+  {
+    "Week": "2016-12-11",
+    "Deep Learning": 25,
+    "Artificial Intelligence": 38,
+    "Natural Language Processing": 10,
+    "Computer Vision": 11,
+    "Machine Learning": 59
+  },
+  {
+    "Week": "2016-12-18",
+    "Deep Learning": 25,
+    "Artificial Intelligence": 36,
+    "Natural Language Processing": 9,
+    "Computer Vision": 9,
+    "Machine Learning": 56
+  },
+  {
+    "Week": "2016-12-25",
+    "Deep Learning": 21,
+    "Artificial Intelligence": 30,
+    "Natural Language Processing": 7,
+    "Computer Vision": 8,
+    "Machine Learning": 43
+  },
+  {
+    "Week": "2017-01-01",
+    "Deep Learning": 24,
+    "Artificial Intelligence": 38,
+    "Natural Language Processing": 8,
+    "Computer Vision": 10,
+    "Machine Learning": 54
+  },
+  {
+    "Week": "2017-01-08",
+    "Deep Learning": 27,
+    "Artificial Intelligence": 40,
+    "Natural Language Processing": 9,
+    "Computer Vision": 12,
+    "Machine Learning": 64
+  },
+  {
+    "Week": "2017-01-15",
+    "Deep Learning": 28,
+    "Artificial Intelligence": 39,
+    "Natural Language Processing": 10,
+    "Computer Vision": 11,
+    "Machine Learning": 62
+  },
+  {
+    "Week": "2017-01-22",
+    "Deep Learning": 28,
+    "Artificial Intelligence": 39,
+    "Natural Language Processing": 11,
+    "Computer Vision": 10,
+    "Machine Learning": 63
+  },
+  {
+    "Week": "2017-01-29",
+    "Deep Learning": 28,
+    "Artificial Intelligence": 40,
+    "Natural Language Processing": 10,
+    "Computer Vision": 12,
+    "Machine Learning": 63
+  },
+  {
+    "Week": "2017-02-05",
+    "Deep Learning": 30,
+    "Artificial Intelligence": 40,
+    "Natural Language Processing": 11,
+    "Computer Vision": 12,
+    "Machine Learning": 64
+  },
+  {
+    "Week": "2017-02-12",
+    "Deep Learning": 29,
+    "Artificial Intelligence": 42,
+    "Natural Language Processing": 11,
+    "Computer Vision": 12,
+    "Machine Learning": 69
+  },
+  {
+    "Week": "2017-02-19",
+    "Deep Learning": 31,
+    "Artificial Intelligence": 43,
+    "Natural Language Processing": 10,
+    "Computer Vision": 12,
+    "Machine Learning": 69
+  },
+  {
+    "Week": "2017-02-26",
+    "Deep Learning": 31,
+    "Artificial Intelligence": 43,
+    "Natural Language Processing": 11,
+    "Computer Vision": 12,
+    "Machine Learning": 73
+  },
+  {
+    "Week": "2017-03-05",
+    "Deep Learning": 30,
+    "Artificial Intelligence": 43,
+    "Natural Language Processing": 12,
+    "Computer Vision": 12,
+    "Machine Learning": 70
+  },
+  {
+    "Week": "2017-03-12",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 42,
+    "Natural Language Processing": 11,
+    "Computer Vision": 13,
+    "Machine Learning": 71
+  },
+  {
+    "Week": "2017-03-19",
+    "Deep Learning": 31,
+    "Artificial Intelligence": 43,
+    "Natural Language Processing": 11,
+    "Computer Vision": 13,
+    "Machine Learning": 73
+  },
+  {
+    "Week": "2017-03-26",
+    "Deep Learning": 31,
+    "Artificial Intelligence": 46,
+    "Natural Language Processing": 12,
+    "Computer Vision": 13,
+    "Machine Learning": 73
+  },
+  {
+    "Week": "2017-04-02",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 45,
+    "Natural Language Processing": 11,
+    "Computer Vision": 13,
+    "Machine Learning": 74
+  },
+  {
+    "Week": "2017-04-09",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 44,
+    "Natural Language Processing": 11,
+    "Computer Vision": 12,
+    "Machine Learning": 75
+  },
+  {
+    "Week": "2017-04-16",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 46,
+    "Natural Language Processing": 12,
+    "Computer Vision": 14,
+    "Machine Learning": 74
+  },
+  {
+    "Week": "2017-04-23",
+    "Deep Learning": 33,
+    "Artificial Intelligence": 47,
+    "Natural Language Processing": 11,
+    "Computer Vision": 12,
+    "Machine Learning": 75
+  },
+  {
+    "Week": "2017-04-30",
+    "Deep Learning": 29,
+    "Artificial Intelligence": 46,
+    "Natural Language Processing": 11,
+    "Computer Vision": 11,
+    "Machine Learning": 76
+  },
+  {
+    "Week": "2017-05-07",
+    "Deep Learning": 34,
+    "Artificial Intelligence": 45,
+    "Natural Language Processing": 11,
+    "Computer Vision": 12,
+    "Machine Learning": 77
+  },
+  {
+    "Week": "2017-05-14",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 50,
+    "Natural Language Processing": 12,
+    "Computer Vision": 12,
+    "Machine Learning": 77
+  },
+  {
+    "Week": "2017-05-21",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 48,
+    "Natural Language Processing": 11,
+    "Computer Vision": 11,
+    "Machine Learning": 80
+  },
+  {
+    "Week": "2017-05-28",
+    "Deep Learning": 31,
+    "Artificial Intelligence": 41,
+    "Natural Language Processing": 10,
+    "Computer Vision": 10,
+    "Machine Learning": 74
+  },
+  {
+    "Week": "2017-06-04",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 38,
+    "Natural Language Processing": 10,
+    "Computer Vision": 11,
+    "Machine Learning": 79
+  },
+  {
+    "Week": "2017-06-11",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 42,
+    "Natural Language Processing": 10,
+    "Computer Vision": 10,
+    "Machine Learning": 78
+  },
+  {
+    "Week": "2017-06-18",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 40,
+    "Natural Language Processing": 10,
+    "Computer Vision": 12,
+    "Machine Learning": 81
+  },
+  {
+    "Week": "2017-06-25",
+    "Deep Learning": 33,
+    "Artificial Intelligence": 40,
+    "Natural Language Processing": 11,
+    "Computer Vision": 11,
+    "Machine Learning": 75
+  },
+  {
+    "Week": "2017-07-02",
+    "Deep Learning": 29,
+    "Artificial Intelligence": 38,
+    "Natural Language Processing": 9,
+    "Computer Vision": 10,
+    "Machine Learning": 72
+  },
+  {
+    "Week": "2017-07-09",
+    "Deep Learning": 31,
+    "Artificial Intelligence": 41,
+    "Natural Language Processing": 10,
+    "Computer Vision": 11,
+    "Machine Learning": 77
+  },
+  {
+    "Week": "2017-07-16",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 45,
+    "Natural Language Processing": 10,
+    "Computer Vision": 11,
+    "Machine Learning": 77
+  },
+  {
+    "Week": "2017-07-23",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 48,
+    "Natural Language Processing": 11,
+    "Computer Vision": 11,
+    "Machine Learning": 77
+  },
+  {
+    "Week": "2017-07-30",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 64,
+    "Natural Language Processing": 11,
+    "Computer Vision": 11,
+    "Machine Learning": 78
+  },
+  {
+    "Week": "2017-08-06",
+    "Deep Learning": 33,
+    "Artificial Intelligence": 49,
+    "Natural Language Processing": 10,
+    "Computer Vision": 10,
+    "Machine Learning": 75
+  },
+  {
+    "Week": "2017-08-13",
+    "Deep Learning": 34,
+    "Artificial Intelligence": 46,
+    "Natural Language Processing": 9,
+    "Computer Vision": 10,
+    "Machine Learning": 74
+  },
+  {
+    "Week": "2017-08-20",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 48,
+    "Natural Language Processing": 10,
+    "Computer Vision": 10,
+    "Machine Learning": 76
+  },
+  {
+    "Week": "2017-08-27",
+    "Deep Learning": 32,
+    "Artificial Intelligence": 47,
+    "Natural Language Processing": 9,
+    "Computer Vision": 11,
+    "Machine Learning": 79
+  },
+  {
+    "Week": "2017-09-03",
+    "Deep Learning": 35,
+    "Artificial Intelligence": 63,
+    "Natural Language Processing": 10,
+    "Computer Vision": 11,
+    "Machine Learning": 80
+  },
+  {
+    "Week": "2017-09-10",
+    "Deep Learning": 36,
+    "Artificial Intelligence": 58,
+    "Natural Language Processing": 11,
+    "Computer Vision": 12,
+    "Machine Learning": 89
+  },
+  {
+    "Week": "2017-09-17",
+    "Deep Learning": 37,
+    "Artificial Intelligence": 57,
+    "Natural Language Processing": 12,
+    "Computer Vision": 12,
+    "Machine Learning": 88
+  },
+  {
+    "Week": "2017-09-24",
+    "Deep Learning": 35,
+    "Artificial Intelligence": 52,
+    "Natural Language Processing": 11,
+    "Computer Vision": 12,
+    "Machine Learning": 84
+  },
+  {
+    "Week": "2017-10-01",
+    "Deep Learning": 33,
+    "Artificial Intelligence": 54,
+    "Natural Language Processing": 11,
+    "Computer Vision": 11,
+    "Machine Learning": 86
+  },
+  {
+    "Week": "2017-10-08",
+    "Deep Learning": 37,
+    "Artificial Intelligence": 58,
+    "Natural Language Processing": 12,
+    "Computer Vision": 12,
+    "Machine Learning": 92
+  },
+  {
+    "Week": "2017-10-15",
+    "Deep Learning": 36,
+    "Artificial Intelligence": 55,
+    "Natural Language Processing": 11,
+    "Computer Vision": 13,
+    "Machine Learning": 91
+  },
+  {
+    "Week": "2017-10-22",
+    "Deep Learning": 36,
+    "Artificial Intelligence": 68,
+    "Natural Language Processing": 12,
+    "Computer Vision": 14,
+    "Machine Learning": 95
+  },
+  {
+    "Week": "2017-10-29",
+    "Deep Learning": 39,
+    "Artificial Intelligence": 66,
+    "Natural Language Processing": 13,
+    "Computer Vision": 14,
+    "Machine Learning": 96
+  },
+  {
+    "Week": "2017-11-05",
+    "Deep Learning": 41,
+    "Artificial Intelligence": 68,
+    "Natural Language Processing": 13,
+    "Computer Vision": 14,
+    "Machine Learning": 98
+  },
+  {
+    "Week": "2017-11-12",
+    "Deep Learning": 42,
+    "Artificial Intelligence": 66,
+    "Natural Language Processing": 12,
+    "Computer Vision": 14,
+    "Machine Learning": 99
+  },
+  {
+    "Week": "2017-11-19",
+    "Deep Learning": 38,
+    "Artificial Intelligence": 63,
+    "Natural Language Processing": 12,
+    "Computer Vision": 13,
+    "Machine Learning": 89
+  },
+  {
+    "Week": "2017-11-26",
+    "Deep Learning": 42,
+    "Artificial Intelligence": 72,
+    "Natural Language Processing": 12,
+    "Computer Vision": 15,
+    "Machine Learning": 100
+  }
+]
