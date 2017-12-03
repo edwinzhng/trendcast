@@ -1,12 +1,12 @@
 import firebase from 'firebase'
 
 var config = {
-    apiKey: "AIzaSyCLtFY52ei6UJOUQ9DREicrpIj83lGaaQg",
+    apiKey: "",
     authDomain: "trendcast-yhack.firebaseapp.com",
     databaseURL: "https://trendcast-yhack.firebaseio.com",
     projectId: "trendcast-yhack",
     storageBucket: "",
-    messagingSenderId: "789968588080"
+    messagingSenderId: ""
 };
 
 var fire = firebase.initializeApp(config);
